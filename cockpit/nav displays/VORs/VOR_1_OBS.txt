@@ -1,0 +1,4 @@
+A
+750 version
+dx 	dy 
+12     12	// comment: deflection in pixels per dot

@@ -1,0 +1,5 @@
+X-Plane 9.40RC16
+================
+- "Handle" instruments (throttle, mixture, etc.) are associated a wrongly
+  located extra "mouse-click region"
+  > http://forums.x-plane.org/index.php?showtopic=42038

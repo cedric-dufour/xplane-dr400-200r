@@ -1,0 +1,6 @@
+# Ignore temporary/backup files
+*.bak
+*#
+*~
+semantic.cache
+
