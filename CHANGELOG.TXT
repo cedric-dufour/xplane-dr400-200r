@@ -1,3 +1,9 @@
+1.0-10.51-20180102
+==================
+ * Cédric Dufour <cedric.dufour@ced-network.net>
+    - Update release (for X-Plane 10.51)
+    - Fine-tuned for closer-to-reality behavior
+
 1.0-9.41-20091219
 =================
  * Cédric Dufour <cedric.dufour@ced-network.net>

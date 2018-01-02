@@ -2,7 +2,7 @@ COPYRIGHT
 =========
 
 Robin DR400-200R (GPL) for X-Plane
-Copyright (C) 2009 Cedric Dufour
+Copyright (C) 2009-2018 Cedric Dufour
 GNU General Public Licence (GPL) version 2
 
 This program is free software; you can redistribute it and/or modify
