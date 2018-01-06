@@ -59574,8 +59574,8 @@ P acf/_hyd_prop_pump_0123/6 0
 P acf/_hyd_prop_pump_0123/7 0
 P acf/_hyd_prop_pump_0123/count 8
 P acf/_hyd_rat_pump_0123 0
-P acf/_idle_rat/0 1.0
-P acf/_idle_rat/1 1.200000048
+P acf/_idle_rat/0 0.949999988
+P acf/_idle_rat/1 1.149999976
 P acf/_idle_rat/count 2
 P acf/_inlet_compression_efficiency 0.850000024
 P acf/_inverted_fuel_oil_EQ 0
@@ -59863,7 +59863,7 @@ P acf/_rock_h_opt 0.0
 P acf/_rock_max_opt 0.0
 P acf/_rock_max_sl 0.0
 P acf/_rock_max_vac 0.0
-P acf/_roll_co 0.035000000
+P acf/_roll_co 0.150000006
 P acf/_roll_to_eng_spo1 0.0
 P acf/_roll_to_eng_spo2 0.0
 P acf/_rotor_mi_rat 1.0
@@ -60025,7 +60025,7 @@ P acf/_stab_trim_dn 0.0
 P acf/_stab_trim_up 0.0
 P acf/_stab_with_Vind 0.0
 P acf/_stab_with_flap 0.0
-P acf/_stall_warn_aoa 9.0
+P acf/_stall_warn_aoa 10.0
 P acf/_stall_warn_is_variable 0
 P acf/_start_on_water 0
 P acf/_starter_engages_fuel 0
@@ -60098,8 +60098,8 @@ P acf/_tank_xyz/i_count 9
 P acf/_tank_xyz/j_count 3
 P acf/_the_eqlbm -0.257265836
 P acf/_thro_x_ctr 2099.399902344
-P acf/_throt_max_fwd_emr 0.800000012
-P acf/_throt_max_fwd_nrm 0.800000012
+P acf/_throt_max_fwd_emr 0.829999983
+P acf/_throt_max_fwd_nrm 0.829999983
 P acf/_throt_max_rev 0.0
 P acf/_throt_time_jet 1.0
 P acf/_throt_time_prop 2.799999952
