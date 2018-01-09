@@ -58,6 +58,7 @@ DR400-200R
   O: 2-3 seconds to reach 1200RPM when the starter is actuated
      ~1500RPM when maintaining the starter on
   H: Engine Specs > Spoolup/Boost > Fuel Intro/Advance Time
+     Engine Specs > Spoolup/Boost > Starter Torque and Design RPM
 
 * Engine Idle
   S: Minimum throttle
@@ -169,6 +170,7 @@ DR400-200R
 * In general
   S: Flaps and trim change
   O: Do not modify pitch/roll/yaw abruptly
-  H: Control Geometry > Coontrols > Flaps Deflection Times
+  H: Control Geometry > Controls > Flaps Deflection Times
      Control Geometry > Trim & Speed > Controls Deflection Times
+     Control Geometry > Trim & Speed > Trim Full Deflection Times
 
