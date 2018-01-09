@@ -57372,7 +57372,7 @@ P acf/_ailn2_v2 999.0
 P acf/_ailn_def_time 0.250000000
 P acf/_ailn_dn_trim 1.0
 P acf/_ailn_tab 0.005000000
-P acf/_ailn_trim_time 3.0
+P acf/_ailn_trim_time 5.0
 P acf/_ailn_up_trim 1.500000000
 P acf/_airbus_FBW 0
 P acf/_alt_always_armed 0
@@ -58972,7 +58972,7 @@ P acf/_elev2_v2 999.0
 P acf/_elev_def_time 1.0
 P acf/_elev_dn_trim 8.399999619
 P acf/_elev_tab 0.0
-P acf/_elev_trim_time 5.0
+P acf/_elev_trim_time 10.0
 P acf/_elev_up_trim 14.0
 P acf/_elev_with_flap_rat 0.0
 P acf/_engine_pwr_rat_from_crit_alt 0.0
@@ -59892,7 +59892,7 @@ P acf/_rudd_def_time 0.250000000
 P acf/_rudd_lf_trim 3.799999952
 P acf/_rudd_rt_trim 3.799999952
 P acf/_rudd_tab 0.039999999
-P acf/_rudd_trim_time 3.0
+P acf/_rudd_trim_time 5.0
 P acf/_rudd_with_ailn_rat 0.0
 P acf/_rudd_with_fail 0.0
 P acf/_rwy_req_pave 0
