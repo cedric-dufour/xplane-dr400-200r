@@ -3,16 +3,12 @@
  * Cédric Dufour <cedric.dufour@ced-network.net>
     - Update release (for X-Plane 11.11)
     - Fine-tuned for closer-to-reality behavior
-    > Affected files:
-      ./dr400.acf
 
 1.0-10.51-20180102
 ==================
  * Cédric Dufour <cedric.dufour@ced-network.net>
     - Update release (for X-Plane 10.51)
     - Fine-tuned for closer-to-reality behavior
-    > Affected files:
-      ./dr400.acf
 
 1.0-9.41-20091219
 =================
@@ -20,18 +16,11 @@
     - Update release (for X-Plane 9.41)
     - Improved lightning positions/effects for night flight
     - Hacked (extra) handle position to circumvent extraneous mouse-click region bug
-    > Affected files:
-      ./objects/dr400_inside_LIT.png
-      ./dr400.acf
 
 1.0-9.40-20091111
 =================
  * Cédric Dufour <cedric.dufour@ced-network.net>
     - Resized 3D cockpit to 2048x2048 canvas (instruments are now very sharp)
-    > Affected files:
-      ./cockpit_3d/-PANELS-/Panel_General.png
-      ./dr400.acf
-      ./dr400_cockpit.png
 
 1.0-9.40-20091101
 =================
@@ -40,129 +29,8 @@
     - Fine-tuned flight model for 9.40 flight engine
     - Remapped 3D cockpit texture to allow bigger, less fuzzy, instruments
     - Removed wing call sign (which was erroneously mirrored to other wing)
-    > Affected files:
-      ./source/dr400_cockpit.blend
-      ./source/dr400_paint.xcf
-      ./dr400.acf
-      ./dr400_cockpit.obj
-      ./dr400_paint.png
 
 1.0-9.31-20091025
 =================
  * Cédric Dufour <cedric.dufour@ced-network.net>
     - Original release (for X-Plane 9.31)
-    > Affected files:
-      ./airfoils/NACA0008_Re7.50_M0.18_N11.0.afl
-      ./airfoils/NACA46009_Re5.00_M0.18_N11.0.afl
-      ./airfoils/NACA43013.5_Re2.50_M0.12_N11.0.afl
-      ./airfoils/NACA0030_Re5.00_M0.18_N11.0.afl
-      ./airfoils/NACA46009_Re1.50_M0.12_N11.0.afl
-      ./airfoils/NACA0008_Re4.00_M0.12_N11.0.afl
-      ./airfoils/NACA0011_Re1.25_M0.12_N11.0.afl
-      ./airfoils/NACA0011_Re4.00_M0.18_N11.0.afl
-      ./airfoils/NACA0030_Re1.50_M0.12_N11.0.afl
-      ./airfoils/NACA43013.5_Re8.50_M0.18_N11.0.afl
-      ./cockpit/-PANELS-/Panel_General.png
-      ./cockpit/annunciators/ann_fuel_press-1.png
-      ./cockpit/annunciators/ann_fuel_press.png
-      ./cockpit/annunciators/ann_fuel_quantity-1.png
-      ./cockpit/annunciators/ann_fuel_quantity.png
-      ./cockpit/annunciators/ann_generator-1.png
-      ./cockpit/annunciators/ann_generator.png
-      ./cockpit/annunciators/ann_low_voltage-1.png
-      ./cockpit/annunciators/ann_low_voltage.png
-      ./cockpit/annunciators/ann_oil_press-1.png
-      ./cockpit/annunciators/ann_oil_press.png
-      ./cockpit/annunciators/ann_oil_temp-1.png
-      ./cockpit/annunciators/ann_oil_temp.png
-      ./cockpit/annunciators/ann_red-1.png
-      ./cockpit/annunciators/ann_red.png
-      ./cockpit/annunciators/ann_reverse-1.png
-      ./cockpit/annunciators/ann_reverse.png
-      ./cockpit/annunciators/ann_yellow-1.png
-      ./cockpit/buttons/but_avionics-1.png
-      ./cockpit/buttons/but_avionics.png
-      ./cockpit/buttons/but_battery-1.png
-      ./cockpit/buttons/but_battery.png
-      ./cockpit/buttons/engine/but_generator-1.png
-      ./cockpit/buttons/engine/but_generator.png
-      ./cockpit/buttons/fuel/but_fuelpump-1.png
-      ./cockpit/buttons/fuel/but_fuelpump.png
-      ./cockpit/buttons/lights/but_land_light-1.png
-      ./cockpit/buttons/lights/but_land_light.png
-      ./cockpit/buttons/lights/but_nav_light-1.png
-      ./cockpit/buttons/lights/but_nav_light.png
-      ./cockpit/buttons/lights/but_strobe_light-1.png
-      ./cockpit/buttons/lights/but_strobe_light.png
-      ./cockpit/buttons/lights/but_taxi_light-1.png
-      ./cockpit/buttons/lights/but_taxi_light.png
-      ./cockpit/compass/compass_BC.png
-      ./cockpit/engine/engine round/engine_batt_VOLT.png
-      ./cockpit/engine/engine round/engine_CHT.png
-      ./cockpit/engine/engine round/engine_EGT.png
-      ./cockpit/engine/engine round/engine_FF.png
-      ./cockpit/engine/engine round/engine_MP.png
-      ./cockpit/engine/engine round/engine_OILP.png
-      ./cockpit/engine/engine round/engine_OILT.png
-      ./cockpit/engine/engine round/engine_RPM_engine.png
-      ./cockpit/flaps/indicate_flap_round.png
-      ./cockpit/fuel/fuel_round_GA.png
-      ./cockpit/handles/han_cheat_vernier-1.png
-      ./cockpit/handles/han_cheat_vernier.png
-      ./cockpit/handles/han_mixture_linear.png
-      ./cockpit/handles/han_prop_vernier.png
-      ./cockpit/handles/han_thro_vernier-1.png
-      ./cockpit/handles/han_thro_vernier.png
-      ./cockpit/nav displays/ADFs/ADF_conven1_GA.png
-      ./cockpit/nav displays/VORs/VOR_1_OBS.png
-      ./cockpit/rheostats/rhe_flood_brt_GA.png
-      ./cockpit/rheostats/rhe_instrument_brt_GA.png
-      ./cockpit/standard six/airspeed/ASI_adap_GA.png
-      ./cockpit/standard six/altimeters/alt_GA.png
-      ./cockpit/standard six/artificial horizons/horizon_GA_vac_adj-4.png
-      ./cockpit/standard six/artificial horizons/horizon_GA_vac_adj.png
-      ./cockpit/standard six/DGs/DG_HDG_SYN.png
-      ./cockpit/standard six/turn slip/needle.png
-      ./cockpit/standard six/vertical speed/VVI_2000_GA.png
-      ./cockpit/supplement/suction_GA.png
-      ./cockpit/trim/elv_trim_act.png
-      ./cockpit/trim/elv_trim_ind.png
-      ./cockpit_3d/-PANELS-/Panel_General.png
-      ./objects/dr400_fuselage.png
-      ./objects/dr400_fuselage.obj
-      ./objects/dr400_inside.png
-      ./objects/dr400_inside.obj
-      ./sounds/engine/dr400 engn1.wav
-      ./sounds/engine/dr400 prop1.wav
-      ./sounds/systems/dr400 avionics.wav
-      ./sounds/systems/dr400 flap.wav
-      ./source/dr400_cockpit.blend
-      ./source/dr400_fuselage.blend
-      ./source/dr400_fuselage.xcf
-      ./source/dr400_inside.blend
-      ./source/dr400_inside.xcf
-      ./source/dr400_paint2.xcf
-      ./source/dr400_paint.xcf
-      ./source/instrument.xcf
-      ./source/NACA0008-Geometry.dat
-      ./source/NACA0008_Re4.00_M0.12_N11.0.txt
-      ./source/NACA0008_Re7.50_M0.18_N11.0.txt
-      ./source/NACA0011-Geometry.dat
-      ./source/NACA0011_Re1.25_M0.12_N11.0.txt
-      ./source/NACA0011_Re4.00_M0.18_N11.0.txt
-      ./source/NACA0030-Geometry.dat
-      ./source/NACA0030_Re1.50_M0.12_N11.0.txt
-      ./source/NACA0030_Re5.00_M0.18_N11.0.txt
-      ./source/NACA43013.5-Geometry.dat
-      ./source/NACA43013.5_Re2.50_M0.12_N11.0.txt
-      ./source/NACA43013.5_Re8.50_M0.18_N11.0.txt
-      ./source/NACA46009-Geometry.dat
-      ./source/NACA46009_Re1.50_M0.12_N11.0.txt
-      ./source/NACA46009_Re5.00_M0.18_N11.0.txt
-      ./source/Panel.png
-      ./source/rheostat.xcf
-      ./dr400.acf
-      ./dr400_paint.png
-      ./dr400_paint2.png
-      ./dr400_cockpit.png
-      ./dr400_cockpit.obj

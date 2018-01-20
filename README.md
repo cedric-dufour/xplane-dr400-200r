@@ -200,15 +200,7 @@ LICENSING
 The Robin DR400-200R (GPL) for X-Plane may be used, modified and redistributed
 under the terms of the
 
-  **GNU General Public License (GPL) version 2**
+  **GNU General Public License (GPL) version 3**
 
-(see the COPYRIGHT and LICENSE.GPLv2 files).
-
-The Robin DR400-200R (GPL) for X-Plane includes all resources listed in
-the CHANGELOG file. All contributors should make sure to update the CHANGELOG
-file appropriately, by listing the files they modified or added along their
-name (and e-mail address).
-
-Other resources are (and must be) used according to their original license,
-which is (should be made) available from their respective author.
+(see the COPYRIGHT, AUTHORS and LICENSES/GPL-3.0.txt files).
 

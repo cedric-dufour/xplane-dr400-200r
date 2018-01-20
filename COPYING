@@ -1,0 +1,38 @@
+COPYING
+=======
+(Open Source and GPL for Dummies)
+
+This software is open source and licensed under the GNU General Public License,
+version 3 (GPLv3); see the COPYRIGHT, AUTHORS and associated LICENSE files.
+
+This means you can FREELY:
+ - Copy it
+ - Use it
+ - Modify it
+ - Request your modifications to be "pulled" back into "upstream" (nice!) and
+   be added to the list of AUTHORS.
+ - Distribute your modified version independently from "upstream" (less nice)
+
+PROVIDED you respect the original COPYRIGHT and associated LICENSE!
+
+This means you MAY NOT (in particular):
+ - Change the COPYRIGHT or the associated LICENSE without the agreement of all
+   the AUTHORS. This would be a VIOLATION of the LICENSE (GPLv3, art.4 and 5)
+   and intellectual property laws (e.g. the Swiss "Loi sur le droit d'auteur",
+   LDA, RS 231.1).
+ - Distribute the "upstream" or your modified version without its source code,
+   including that of your modifications. This would be a VIOLATION of the
+   LICENSE (GPLv3, art.5 and 6)!
+ - Pick only pieces of this software - be it "upstream" or a modified version -
+   and feel this absolves you from respecting the forementioned COPYRIGHT and
+   associated LICENSE.
+
+Although you MAY:
+ - Add "Additional permissions" to YOUR contribution(s), as provisioned by
+   the LICENSE (GPLv3, art.7), without infringing the COPYRIGHT and the
+   associated LICENSE.
+
+Bottom-line and shortly put:
+This software is open source and licensed under the GNU General Public License,
+version (GPLv3); PLEASE KEEP IT THAT WAY!
+

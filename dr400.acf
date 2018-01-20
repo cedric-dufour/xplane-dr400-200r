@@ -57899,7 +57899,7 @@ P acf/_ap_crs_src 0
 P acf/_apt_req_plane 0
 P acf/_arresting_EQ 0
 P acf/_asi_is_kts 1
-P acf/_author Cédric Dufour - Copyright 2009-2018 - GPLv2
+P acf/_author Cédric Dufour - Copyright 2009-2018
 P acf/_auto_cowl_flaps_EQ 0
 P acf/_auto_engage_BC_deg 0.0
 P acf/_auto_omega_fire 0.0
