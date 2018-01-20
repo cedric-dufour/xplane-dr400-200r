@@ -130,8 +130,18 @@ DR400-200R
      Flaps up (0°), 1st notch (15°) or 2nd notch (60°)
      Maintain nose slightly up (as speed decreases)
   O: Roll (aileron) control until stall
-     Stall @ ~49kt, ~53kt or ~56kt (respectively)
+     Stall warning ~7kt above 56kt, 53kt or 49kt (respectively)
   H: Wings > Indicidence Angles (lesser angle of attack/incidence on wing tips)
+     Systems > General 1 > Stall Warning Alpha (angle)
+
+* Full flaps base/final turn
+  S: Flaps 2nd notch = 60°
+     Vertical speed = -1000ft/min
+     Roll = 30°
+     Speed = 80kt
+  O: Power must be reduced compared to level, 15°-flaps, 80kt flight
+     but not entirely cut such as to maintain the 80kt speed throughout the turn
+  H: Control Geometry > Controls > Full Flaps Drag (Cd) Coefficient
 
 * Full flaps dive ("rattrapage de pente")
   S: Minimum throttle
@@ -165,7 +175,7 @@ DR400-200R
 * Landing: Touch-Down
   S: Minimum throttle
   O: Stall alarm ~60kt
-  H: Systems > General 1 > Stall Warning Alpha
+  H: Systems > General 1 > Stall Warning Alpha (angle)
 
 * In general
   S: Flaps and trim change

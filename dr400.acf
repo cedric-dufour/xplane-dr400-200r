@@ -59330,7 +59330,7 @@ P acf/_feathered_pitch 0.0
 P acf/_ff_rat_idle_JET 0.100000001
 P acf/_ff_rat_idle_PRP 0.100000001
 P acf/_file_writer_version 111101
-P acf/_flap1_cd 0.119999997
+P acf/_flap1_cd 0.055000000
 P acf/_flap1_cl 0.252999991
 P acf/_flap1_cm -0.075999998
 P acf/_flap1_cratR 0.100000001
@@ -59863,7 +59863,7 @@ P acf/_rock_h_opt 0.0
 P acf/_rock_max_opt 0.0
 P acf/_rock_max_sl 0.0
 P acf/_rock_max_vac 0.0
-P acf/_roll_co 0.150000006
+P acf/_roll_co 0.119999997
 P acf/_roll_to_eng_spo1 0.0
 P acf/_roll_to_eng_spo2 0.0
 P acf/_rotor_mi_rat 1.0
