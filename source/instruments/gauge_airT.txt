@@ -1,0 +1,13 @@
+1:1 size (3D):
+130px
+
+DataRef:
+sim/cockpit2/gauges/temperature/outside_air_temp_degc
+
+KeyFrames:
+    °C  degrees  curve
+-999.0    -90.0    1.0
+ -25.0    -90.0    1.0
+  45.0    187.0    1.0
+ 999.0    187.0
+

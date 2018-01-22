@@ -1,0 +1,17 @@
+1:1 size (3D):
+90px
+
+Offset X:
+-20px/256px (-7px/90px)
+
+DataRef:
+sim/cockpit2/gauges/temperature/outside_air_temp_degc
+
+KeyFrames:
+ ratio  degrees  curve
+     0   -100.0    1.0
+     3   -100.0    1.0
+     5      0.0    1.0
+     7    100.0    1.0
+    99    100.0
+

@@ -1,0 +1,14 @@
+1:1 size (3D):
+130px
+
+Offset Y:
+-4px/384px (-1.4px/130px)
+
+DataRef:
+sim/cockpit2/clock_timer/hobbs_time_minutes
+
+KeyFrames (wrap top/bottom):
+minutes  degrees  curve
+    0.0      0.0    1.0
+   60.0    360.0
+

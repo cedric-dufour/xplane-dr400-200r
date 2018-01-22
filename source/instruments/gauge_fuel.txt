@@ -1,0 +1,16 @@
+1:1 size (3D):
+130px
+
+Offset Y:
+-68px/384px (-23.0px/130px)
+
+DataRef:
+sim/cockpit2/fuel/fuel_quantity [0]
+sim/cockpit2/fuel/fuel_quantity [1]
+
+KeyFrames:
+    kgs  degrees  curve
+    0.0    -40.0    1.0
+   80.0     40.0    1.0
+  999.0     40.0
+

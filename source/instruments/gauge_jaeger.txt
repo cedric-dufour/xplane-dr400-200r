@@ -1,0 +1,33 @@
+1:1 size (3D):
+130px
+
+Offset Y:
+-60px/384px (-20.3px/130px)
+
+DataRef:
+sim/cockpit2/electrical/battery/voltage/indicated/volts [0]
+sim/cockpit2/engine/indicators/oil_pressure_psi [0]
+sim/cockpit2/engine/indicators/oil_temperature_deg_C [0]
+
+KeyFrames (battery):
+  volts  degrees  curve
+    0.0    -40.0    1.0
+    9.0    -40.0    1.0
+   11.0    -20.0    1.0
+   15.0     20.0    1.0
+   17.0     40.0    1.0
+  999.0     40.0
+
+KeyFrames (oil pressure):
+   bars  degrees  curve
+    0.0    -35.0    1.0
+   10.0    -35.0    1.0
+  999.0     35.0
+
+KeyFrames (oil temperature):
+   °C/F  degrees  curve
+-9999.0    -40.0    1.0
+   40.0    -40.0    1.0
+  135.0    -40.0    1.0
+ 9999.0     40.0
+

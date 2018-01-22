@@ -1,0 +1,6 @@
+1:1 size (3D):
+128px
+
+Instrument:
+but_starter
+

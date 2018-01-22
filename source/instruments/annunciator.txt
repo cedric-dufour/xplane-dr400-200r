@@ -1,0 +1,11 @@
+1:1 size (3D):
+60px
+
+DataRef:
+sim/cockpit2/annunciators/oil_pressure_low >= 0.5
+sim/cockpit2/annunciators/fuel_pressure_low >= 0.5
+sim/cockpit2/annunciators/fuel_quantity >= 0.5
+sim/cockpit2/annunciators/generator_off [0] >= 0.5
+sim/cockpit2/annunciators/igniter_on [0] >= 0.5
+sim/cockpit2/controls/flap_ratio >= 0.1
+

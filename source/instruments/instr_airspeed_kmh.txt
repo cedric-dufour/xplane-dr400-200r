@@ -1,0 +1,16 @@
+1:1 size (3D):
+220px
+
+Offset Y:
+-8px/512px (-3.4px/220px)
+
+DataRef:
+sim/cockpit2/gauges/indicators/airspeed_kts_pilot
+
+KeyFrames:
+ knots  degrees  curve
+   0.0      0.0    1.0
+  25.0      0.0    1.1
+ 181.0    360.0    1.0
+9999.0    360.0
+

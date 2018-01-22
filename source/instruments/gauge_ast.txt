@@ -1,0 +1,18 @@
+1:1 size (3D):
+130px
+
+Offset Y:
+-80px/384px (-27.1px/130px)
+
+DataRef:
+sim/cockpit2/engine/indicators/fuel_pressure_psi [0]
+sim/cockpit2/engine/indicators/oil_pressure_psi [0]
+
+KeyFrames (fuel pressure):
+  mbars  degrees  curve
+    0.0    -30.0    1.2
+  150.0    -12.0    1.2
+  250.0     12.0    1.2
+  350.0     30.0    1.2
+ 9999.0     44.0
+

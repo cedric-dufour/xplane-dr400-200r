@@ -1,0 +1,11 @@
+1:1 size (3D):
+128px (width)
+
+DataRef:
+sim/cockpit2/engine/actuators/throttle_ratio [0]
+
+KeyFrames:
+  ratio  degrees  curve
+    0.0    -30.0    1.0
+    1.0     30.0
+

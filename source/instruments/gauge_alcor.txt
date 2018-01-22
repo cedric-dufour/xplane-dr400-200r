@@ -1,0 +1,24 @@
+1:1 size (3D):
+130px
+
+Offset Y:
+-84px/384px (-28.4px/130px)
+
+DataRef:
+sim/cockpit2/engine/indicators/CHT_deg_C [0]
+sim/cockpit2/engine/indicators/EGT_deg_C [0]
+
+KeyFrames (CHT):
+   °C/F  degrees  curve
+-9999.0    -44.0    1.0
+  200.0    -44.0    1.0
+  600.0     44.0    1.0
+ 9999.0     44.0
+
+KeyFrames (EGT):
+   °C/F  degrees  curve
+-9999.0    -44.0    1.0
+  400.0    -44.0    1.0
+  800.0     44.0    1.0
+ 9999.0     44.0
+

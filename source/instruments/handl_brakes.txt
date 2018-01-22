@@ -1,0 +1,6 @@
+1:1 size (3D):
+80px (width)
+
+Instrument:
+but_brakes
+

@@ -29,13 +29,13 @@ TODO:
  * Contributors are welcome!
 
 
-THE AUTHOR DISCLAIMER
----------------------
+ESTHETICS DISCLAIMER
+--------------------
 
-This aircraft does not aim towards being a 100% photo-realistically faithful
-model, but rather towards an "operationnally" faithful replica, allowing DR400s
-pilots to train "at-home" (practicing their checklist, checking a flight plan
-against the plane performances, etc.).
+This model aims primarily towards being an "operationnally" faithful replica - 
+allowing DR400s pilots to train "at-home" (practicing their checklist, checking 
+a flight plan against the plane performances, etc.) - before achieving absolute
+photo realism.
 
 That being said, I hope you will still enjoy it!
 
@@ -192,6 +192,17 @@ possible to create and distribute this aircraft:
    their valuable comments, insights and patience (when dealing with the real-
    life DR400!)
    ( http://www.gvm-sion.ch/ )
+
+
+DEVELOPMENT NOTE
+----------------
+
+In order to allow easy customization of the (3D) instruments panel, the inner
+part of the aircraft has been *intentionally* split in the `dr400_inside.obj` -
+which contains the actual model and texture - and the `dr400_cockpit.obj` -
+which is nothing but a **transparent**, **planar** texture laid just in front of
+the instruments panel surface in the actual model. One thus does *not* need to
+modify the 3D model/object when editing the 3D cockpit with X-Plane Plane Maker.
 
 
 LICENSING

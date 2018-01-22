@@ -1,0 +1,11 @@
+1:1 size (3D):
+288px (height)
+
+DataRef:
+sim/cockpit2/controls/elevator_trim
+
+KeyFrames:
+  ratio   pixels  curve
+   -1.0   -128.0    1.0
+    1.0    128.0
+

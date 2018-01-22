@@ -1,0 +1,6 @@
+1:1 size (3D):
+96px (width)
+
+Instrument:
+but_fuel_xfr_from_012
+

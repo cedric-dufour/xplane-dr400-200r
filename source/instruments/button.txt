@@ -1,0 +1,14 @@
+1:1 size (3D):
+50px (width)
+
+Instrument:
+but_land_light
+but_taxi_light
+but_strobe_light
+but_nav_light
+but_land_light
+but_avionics
+but_battery
+but_generator
+but_fuelpump
+

@@ -1,0 +1,13 @@
+1:1 size (3D):
+200px
+
+DataRef:
+sim/cockpit2/engine/indicators/engine_speed_rpm [0]
+
+KeyFrames:
+    RPM  degrees  curve
+    0.0   -131.0    1.0
+  300.0   -131.0    1.0
+ 4100.0    180.0    1.0
+99999.0    180.0
+

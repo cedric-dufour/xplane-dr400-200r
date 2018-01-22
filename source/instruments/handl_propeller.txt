@@ -1,0 +1,11 @@
+1:1 size (3D):
+128px (width)
+
+DataRef:
+sim/cockpit2/engine/actuators/prop_rotation_speed_rad_sec [0]
+
+KeyFrames:
+  rad/s  degrees  curve
+  100.0    -30.0    1.0
+  285.0     30.0
+

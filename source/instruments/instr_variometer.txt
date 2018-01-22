@@ -1,0 +1,15 @@
+1:1 size (3D):
+220px
+
+DataRef:
+sim/cockpit2/gauges/indicators/vvi_fpm_pilot
+
+KeyFrames:
+     fpm  degrees  curve
+-99999.0   -172.0   0.95
+ -1940.0   -172.0   0.95
+  -500.0    -35.0   1.00
+   500.0     35.0   1.05
+  1940.0    172.0   1.05
+ 99999.0    172.0
+

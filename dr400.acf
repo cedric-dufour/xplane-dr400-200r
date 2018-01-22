@@ -149,7 +149,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 4422.959472656
-P _gear/0/_stat_def 0.198083490
+P _gear/0/_stat_def 0.198083520
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 5.0
 P _gear/0/_strut_comp 0.0
@@ -183,7 +183,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 4422.959472656
-P _gear/1/_stat_def 0.175102562
+P _gear/1/_stat_def 0.175102517
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -217,7 +217,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 4422.959472656
-P _gear/2/_stat_def 0.175102562
+P _gear/2/_stat_def 0.175102517
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -438,7 +438,7 @@ P _obja/1/_v10_att_z_acf_prt_ref 0.0
 P _obja/1/_v10_is_internal 0
 P _obja/1/_v10_steers_with_gear 0
 P _obja/count 2
-P _panel_inst_3d 61
+P _panel_inst_3d 62
 P _part/0/_aero_x_os 0.0
 P _part/0/_aero_y_os 0.0
 P _part/0/_aero_z_os 0.0
@@ -593,7 +593,7 @@ P _part/0/_geo_xyz/10,2,1 0.030182341
 P _part/0/_geo_xyz/10,2,2 -0.065575436
 P _part/0/_geo_xyz/10,3,0 1.541994691
 P _part/0/_geo_xyz/10,3,1 0.022882694
-P _part/0/_geo_xyz/10,3,2 0.003864403
+P _part/0/_geo_xyz/10,3,2 0.003864404
 P _part/0/_geo_xyz/10,4,0 1.541994691
 P _part/0/_geo_xyz/10,4,1 0.007047784
 P _part/0/_geo_xyz/10,4,2 0.095395178
@@ -1511,7 +1511,7 @@ P _part/0/_geo_xyz/9,2,1 0.030182341
 P _part/0/_geo_xyz/9,2,2 -0.065575436
 P _part/0/_geo_xyz/9,3,0 1.541994691
 P _part/0/_geo_xyz/9,3,1 0.022882694
-P _part/0/_geo_xyz/9,3,2 0.003864403
+P _part/0/_geo_xyz/9,3,2 0.003864404
 P _part/0/_geo_xyz/9,4,0 1.541994691
 P _part/0/_geo_xyz/9,4,1 0.007047784
 P _part/0/_geo_xyz/9,4,2 0.095395178
@@ -15221,23 +15221,23 @@ P _part/22/_bot_t1 0.501999974
 P _part/22/_bot_t2 0.748000026
 P _part/22/_damp 13.268877983
 P _part/22/_geo_xyz/0,0,0 -3.904199600
-P _part/22/_geo_xyz/0,0,1 -2.952755928
-P _part/22/_geo_xyz/0,0,2 2.542652607
+P _part/22/_geo_xyz/0,0,1 -2.952755690
+P _part/22/_geo_xyz/0,0,2 2.542650700
 P _part/22/_geo_xyz/0,1,0 -3.955380678
-P _part/22/_geo_xyz/0,1,1 -2.952755928
-P _part/22/_geo_xyz/0,1,2 2.568243265
+P _part/22/_geo_xyz/0,1,1 -2.952755690
+P _part/22/_geo_xyz/0,1,2 2.568241358
 P _part/22/_geo_xyz/0,10,0 -3.776246786
-P _part/22/_geo_xyz/0,10,1 -2.952755928
-P _part/22/_geo_xyz/0,10,2 2.755907297
+P _part/22/_geo_xyz/0,10,1 -2.952755690
+P _part/22/_geo_xyz/0,10,2 2.755905390
 P _part/22/_geo_xyz/0,11,0 -3.801837444
-P _part/22/_geo_xyz/0,11,1 -2.952755928
-P _part/22/_geo_xyz/0,11,2 2.627954483
+P _part/22/_geo_xyz/0,11,1 -2.952755690
+P _part/22/_geo_xyz/0,11,2 2.627952576
 P _part/22/_geo_xyz/0,12,0 -3.853018522
-P _part/22/_geo_xyz/0,12,1 -2.952755928
-P _part/22/_geo_xyz/0,12,2 2.568243265
+P _part/22/_geo_xyz/0,12,1 -2.952755690
+P _part/22/_geo_xyz/0,12,2 2.568241358
 P _part/22/_geo_xyz/0,13,0 -3.904199600
-P _part/22/_geo_xyz/0,13,1 -2.952755928
-P _part/22/_geo_xyz/0,13,2 2.542652607
+P _part/22/_geo_xyz/0,13,1 -2.952755690
+P _part/22/_geo_xyz/0,13,2 2.542650700
 P _part/22/_geo_xyz/0,14,0 0.0
 P _part/22/_geo_xyz/0,14,1 0.0
 P _part/22/_geo_xyz/0,14,2 0.0
@@ -15251,47 +15251,47 @@ P _part/22/_geo_xyz/0,17,0 0.0
 P _part/22/_geo_xyz/0,17,1 0.0
 P _part/22/_geo_xyz/0,17,2 0.0
 P _part/22/_geo_xyz/0,2,0 -4.006561756
-P _part/22/_geo_xyz/0,2,1 -2.952755928
-P _part/22/_geo_xyz/0,2,2 2.627954483
+P _part/22/_geo_xyz/0,2,1 -2.952755690
+P _part/22/_geo_xyz/0,2,2 2.627952576
 P _part/22/_geo_xyz/0,3,0 -4.032152176
-P _part/22/_geo_xyz/0,3,1 -2.952755928
-P _part/22/_geo_xyz/0,3,2 2.755907297
+P _part/22/_geo_xyz/0,3,1 -2.952755690
+P _part/22/_geo_xyz/0,3,2 2.755905390
 P _part/22/_geo_xyz/0,4,0 -4.032152176
-P _part/22/_geo_xyz/0,4,1 -2.952755928
-P _part/22/_geo_xyz/0,4,2 2.926511049
+P _part/22/_geo_xyz/0,4,1 -2.952755690
+P _part/22/_geo_xyz/0,4,2 2.926509142
 P _part/22/_geo_xyz/0,5,0 -3.962359905
-P _part/22/_geo_xyz/0,5,1 -2.952755928
-P _part/22/_geo_xyz/0,5,2 3.182416439
+P _part/22/_geo_xyz/0,5,1 -2.952755690
+P _part/22/_geo_xyz/0,5,2 3.182414532
 P _part/22/_geo_xyz/0,6,0 -3.904199600
-P _part/22/_geo_xyz/0,6,1 -2.952755928
-P _part/22/_geo_xyz/0,6,2 3.395671129
+P _part/22/_geo_xyz/0,6,1 -2.952755690
+P _part/22/_geo_xyz/0,6,2 3.395669222
 P _part/22/_geo_xyz/0,7,0 -3.904199600
-P _part/22/_geo_xyz/0,7,1 -2.952755928
-P _part/22/_geo_xyz/0,7,2 3.395671129
+P _part/22/_geo_xyz/0,7,1 -2.952755690
+P _part/22/_geo_xyz/0,7,2 3.395669222
 P _part/22/_geo_xyz/0,8,0 -3.846039295
-P _part/22/_geo_xyz/0,8,1 -2.952755928
-P _part/22/_geo_xyz/0,8,2 3.182416439
+P _part/22/_geo_xyz/0,8,1 -2.952755690
+P _part/22/_geo_xyz/0,8,2 3.182414532
 P _part/22/_geo_xyz/0,9,0 -3.776246786
-P _part/22/_geo_xyz/0,9,1 -2.952755928
-P _part/22/_geo_xyz/0,9,2 2.926511049
+P _part/22/_geo_xyz/0,9,1 -2.952755690
+P _part/22/_geo_xyz/0,9,2 2.926509142
 P _part/22/_geo_xyz/1,0,0 -3.904199839
-P _part/22/_geo_xyz/1,0,1 -1.498807549
-P _part/22/_geo_xyz/1,0,2 2.799022913
+P _part/22/_geo_xyz/1,0,1 -1.498807430
+P _part/22/_geo_xyz/1,0,2 2.799021006
 P _part/22/_geo_xyz/1,1,0 -3.955380917
-P _part/22/_geo_xyz/1,1,1 -1.498807549
-P _part/22/_geo_xyz/1,1,2 2.824613571
+P _part/22/_geo_xyz/1,1,1 -1.498807430
+P _part/22/_geo_xyz/1,1,2 2.824611664
 P _part/22/_geo_xyz/1,10,0 -3.776247025
-P _part/22/_geo_xyz/1,10,1 -1.498807549
-P _part/22/_geo_xyz/1,10,2 3.012277603
+P _part/22/_geo_xyz/1,10,1 -1.498807430
+P _part/22/_geo_xyz/1,10,2 3.012275696
 P _part/22/_geo_xyz/1,11,0 -3.801837683
-P _part/22/_geo_xyz/1,11,1 -1.498807549
-P _part/22/_geo_xyz/1,11,2 2.884324789
+P _part/22/_geo_xyz/1,11,1 -1.498807430
+P _part/22/_geo_xyz/1,11,2 2.884322882
 P _part/22/_geo_xyz/1,12,0 -3.853018761
-P _part/22/_geo_xyz/1,12,1 -1.498807549
-P _part/22/_geo_xyz/1,12,2 2.824613571
+P _part/22/_geo_xyz/1,12,1 -1.498807430
+P _part/22/_geo_xyz/1,12,2 2.824611664
 P _part/22/_geo_xyz/1,13,0 -3.904199839
-P _part/22/_geo_xyz/1,13,1 -1.498807549
-P _part/22/_geo_xyz/1,13,2 2.799022913
+P _part/22/_geo_xyz/1,13,1 -1.498807430
+P _part/22/_geo_xyz/1,13,2 2.799021006
 P _part/22/_geo_xyz/1,14,0 0.0
 P _part/22/_geo_xyz/1,14,1 0.0
 P _part/22/_geo_xyz/1,14,2 0.0
@@ -15305,29 +15305,29 @@ P _part/22/_geo_xyz/1,17,0 0.0
 P _part/22/_geo_xyz/1,17,1 0.0
 P _part/22/_geo_xyz/1,17,2 0.0
 P _part/22/_geo_xyz/1,2,0 -4.006562233
-P _part/22/_geo_xyz/1,2,1 -1.498807549
-P _part/22/_geo_xyz/1,2,2 2.884324789
+P _part/22/_geo_xyz/1,2,1 -1.498807430
+P _part/22/_geo_xyz/1,2,2 2.884322882
 P _part/22/_geo_xyz/1,3,0 -4.032152653
-P _part/22/_geo_xyz/1,3,1 -1.498807549
-P _part/22/_geo_xyz/1,3,2 3.012277603
+P _part/22/_geo_xyz/1,3,1 -1.498807430
+P _part/22/_geo_xyz/1,3,2 3.012275696
 P _part/22/_geo_xyz/1,4,0 -4.032152653
-P _part/22/_geo_xyz/1,4,1 -1.498807549
-P _part/22/_geo_xyz/1,4,2 3.182881355
+P _part/22/_geo_xyz/1,4,1 -1.498807430
+P _part/22/_geo_xyz/1,4,2 3.182879448
 P _part/22/_geo_xyz/1,5,0 -3.962360144
-P _part/22/_geo_xyz/1,5,1 -1.498807549
-P _part/22/_geo_xyz/1,5,2 3.438786983
+P _part/22/_geo_xyz/1,5,1 -1.498807430
+P _part/22/_geo_xyz/1,5,2 3.438784838
 P _part/22/_geo_xyz/1,6,0 -3.904199839
-P _part/22/_geo_xyz/1,6,1 -1.498807549
-P _part/22/_geo_xyz/1,6,2 3.652041435
+P _part/22/_geo_xyz/1,6,1 -1.498807430
+P _part/22/_geo_xyz/1,6,2 3.652039528
 P _part/22/_geo_xyz/1,7,0 -3.904199839
-P _part/22/_geo_xyz/1,7,1 -1.498807549
-P _part/22/_geo_xyz/1,7,2 3.652041435
+P _part/22/_geo_xyz/1,7,1 -1.498807430
+P _part/22/_geo_xyz/1,7,2 3.652039528
 P _part/22/_geo_xyz/1,8,0 -3.846039534
-P _part/22/_geo_xyz/1,8,1 -1.498807549
-P _part/22/_geo_xyz/1,8,2 3.438786983
+P _part/22/_geo_xyz/1,8,1 -1.498807430
+P _part/22/_geo_xyz/1,8,2 3.438784838
 P _part/22/_geo_xyz/1,9,0 -3.776247025
-P _part/22/_geo_xyz/1,9,1 -1.498807549
-P _part/22/_geo_xyz/1,9,2 3.182881355
+P _part/22/_geo_xyz/1,9,1 -1.498807430
+P _part/22/_geo_xyz/1,9,2 3.182879448
 P _part/22/_geo_xyz/10,0,0 0.0
 P _part/22/_geo_xyz/10,0,1 0.0
 P _part/22/_geo_xyz/10,0,2 0.0
@@ -15869,23 +15869,23 @@ P _part/22/_geo_xyz/19,9,0 0.0
 P _part/22/_geo_xyz/19,9,1 0.0
 P _part/22/_geo_xyz/19,9,2 0.0
 P _part/22/_geo_xyz/2,0,0 -3.904199839
-P _part/22/_geo_xyz/2,0,1 -1.498807549
-P _part/22/_geo_xyz/2,0,2 2.799022913
+P _part/22/_geo_xyz/2,0,1 -1.498807430
+P _part/22/_geo_xyz/2,0,2 2.799021006
 P _part/22/_geo_xyz/2,1,0 -3.955380917
-P _part/22/_geo_xyz/2,1,1 -1.498807549
-P _part/22/_geo_xyz/2,1,2 2.824613571
+P _part/22/_geo_xyz/2,1,1 -1.498807430
+P _part/22/_geo_xyz/2,1,2 2.824611664
 P _part/22/_geo_xyz/2,10,0 -3.776247025
-P _part/22/_geo_xyz/2,10,1 -1.498807549
-P _part/22/_geo_xyz/2,10,2 3.012277603
+P _part/22/_geo_xyz/2,10,1 -1.498807430
+P _part/22/_geo_xyz/2,10,2 3.012275696
 P _part/22/_geo_xyz/2,11,0 -3.801837683
-P _part/22/_geo_xyz/2,11,1 -1.498807549
-P _part/22/_geo_xyz/2,11,2 2.884324789
+P _part/22/_geo_xyz/2,11,1 -1.498807430
+P _part/22/_geo_xyz/2,11,2 2.884322882
 P _part/22/_geo_xyz/2,12,0 -3.853018761
-P _part/22/_geo_xyz/2,12,1 -1.498807549
-P _part/22/_geo_xyz/2,12,2 2.824613571
+P _part/22/_geo_xyz/2,12,1 -1.498807430
+P _part/22/_geo_xyz/2,12,2 2.824611664
 P _part/22/_geo_xyz/2,13,0 -3.904199839
-P _part/22/_geo_xyz/2,13,1 -1.498807549
-P _part/22/_geo_xyz/2,13,2 2.799022913
+P _part/22/_geo_xyz/2,13,1 -1.498807430
+P _part/22/_geo_xyz/2,13,2 2.799021006
 P _part/22/_geo_xyz/2,14,0 0.0
 P _part/22/_geo_xyz/2,14,1 0.0
 P _part/22/_geo_xyz/2,14,2 0.0
@@ -15899,29 +15899,29 @@ P _part/22/_geo_xyz/2,17,0 0.0
 P _part/22/_geo_xyz/2,17,1 0.0
 P _part/22/_geo_xyz/2,17,2 0.0
 P _part/22/_geo_xyz/2,2,0 -4.006562233
-P _part/22/_geo_xyz/2,2,1 -1.498807549
-P _part/22/_geo_xyz/2,2,2 2.884324789
+P _part/22/_geo_xyz/2,2,1 -1.498807430
+P _part/22/_geo_xyz/2,2,2 2.884322882
 P _part/22/_geo_xyz/2,3,0 -4.032152653
-P _part/22/_geo_xyz/2,3,1 -1.498807549
-P _part/22/_geo_xyz/2,3,2 3.012277603
+P _part/22/_geo_xyz/2,3,1 -1.498807430
+P _part/22/_geo_xyz/2,3,2 3.012275696
 P _part/22/_geo_xyz/2,4,0 -4.032152653
-P _part/22/_geo_xyz/2,4,1 -1.498807549
-P _part/22/_geo_xyz/2,4,2 3.182881355
+P _part/22/_geo_xyz/2,4,1 -1.498807430
+P _part/22/_geo_xyz/2,4,2 3.182879448
 P _part/22/_geo_xyz/2,5,0 -3.962360144
-P _part/22/_geo_xyz/2,5,1 -1.498807549
-P _part/22/_geo_xyz/2,5,2 3.438786983
+P _part/22/_geo_xyz/2,5,1 -1.498807430
+P _part/22/_geo_xyz/2,5,2 3.438784838
 P _part/22/_geo_xyz/2,6,0 -3.904199839
-P _part/22/_geo_xyz/2,6,1 -1.498807549
-P _part/22/_geo_xyz/2,6,2 3.652041435
+P _part/22/_geo_xyz/2,6,1 -1.498807430
+P _part/22/_geo_xyz/2,6,2 3.652039528
 P _part/22/_geo_xyz/2,7,0 -3.904199839
-P _part/22/_geo_xyz/2,7,1 -1.498807549
-P _part/22/_geo_xyz/2,7,2 3.652041435
+P _part/22/_geo_xyz/2,7,1 -1.498807430
+P _part/22/_geo_xyz/2,7,2 3.652039528
 P _part/22/_geo_xyz/2,8,0 -3.846039534
-P _part/22/_geo_xyz/2,8,1 -1.498807549
-P _part/22/_geo_xyz/2,8,2 3.438786983
+P _part/22/_geo_xyz/2,8,1 -1.498807430
+P _part/22/_geo_xyz/2,8,2 3.438784838
 P _part/22/_geo_xyz/2,9,0 -3.776247025
-P _part/22/_geo_xyz/2,9,1 -1.498807549
-P _part/22/_geo_xyz/2,9,2 3.182881355
+P _part/22/_geo_xyz/2,9,1 -1.498807430
+P _part/22/_geo_xyz/2,9,2 3.182879448
 P _part/22/_geo_xyz/3,0,0 0.0
 P _part/22/_geo_xyz/3,0,1 0.0
 P _part/22/_geo_xyz/3,0,2 0.0
@@ -16674,8 +16674,8 @@ P _part/22/_part_specs_invis 0
 P _part/22/_part_tex 1
 P _part/22/_part_the 0.0
 P _part/22/_part_x -3.904199600
-P _part/22/_part_y -2.952755928
-P _part/22/_part_z 2.755907297
+P _part/22/_part_y -2.952755690
+P _part/22/_part_z 2.755905390
 P _part/22/_patt_con 0
 P _part/22/_patt_prt 0
 P _part/22/_patt_rat 0.0
@@ -18391,8 +18391,8 @@ P _part/56/_geo_xyz/11,9,0 -0.0
 P _part/56/_geo_xyz/11,9,1 -1.970756769
 P _part/56/_geo_xyz/11,9,2 2.624675751
 P _part/56/_geo_xyz/12,0,0 0.0
-P _part/56/_geo_xyz/12,0,1 2.342417479
-P _part/56/_geo_xyz/12,0,2 3.937012672
+P _part/56/_geo_xyz/12,0,1 2.342519522
+P _part/56/_geo_xyz/12,0,2 3.937007904
 P _part/56/_geo_xyz/12,1,0 0.839379072
 P _part/56/_geo_xyz/12,1,1 2.253133774
 P _part/56/_geo_xyz/12,1,2 3.937012196
@@ -18418,8 +18418,8 @@ P _part/56/_geo_xyz/12,16,0 -0.839379072
 P _part/56/_geo_xyz/12,16,1 2.253133774
 P _part/56/_geo_xyz/12,16,2 3.937012196
 P _part/56/_geo_xyz/12,17,0 -0.0
-P _part/56/_geo_xyz/12,17,1 2.342417479
-P _part/56/_geo_xyz/12,17,2 3.937012672
+P _part/56/_geo_xyz/12,17,1 2.342519522
+P _part/56/_geo_xyz/12,17,2 3.937007904
 P _part/56/_geo_xyz/12,2,0 1.464885235
 P _part/56/_geo_xyz/12,2,1 1.803425908
 P _part/56/_geo_xyz/12,2,2 3.937012196
@@ -18445,8 +18445,8 @@ P _part/56/_geo_xyz/12,9,0 -0.0
 P _part/56/_geo_xyz/12,9,1 -1.905140400
 P _part/56/_geo_xyz/12,9,2 3.937012196
 P _part/56/_geo_xyz/13,0,0 0.0
-P _part/56/_geo_xyz/13,0,1 1.915907383
-P _part/56/_geo_xyz/13,0,2 6.660104275
+P _part/56/_geo_xyz/13,0,1 1.916010499
+P _part/56/_geo_xyz/13,0,2 6.660104752
 P _part/56/_geo_xyz/13,1,0 0.688809633
 P _part/56/_geo_xyz/13,1,1 1.847431302
 P _part/56/_geo_xyz/13,1,2 6.660103798
@@ -18472,8 +18472,8 @@ P _part/56/_geo_xyz/13,16,0 -0.688809633
 P _part/56/_geo_xyz/13,16,1 1.847431302
 P _part/56/_geo_xyz/13,16,2 6.660103798
 P _part/56/_geo_xyz/13,17,0 -0.0
-P _part/56/_geo_xyz/13,17,1 1.915907383
-P _part/56/_geo_xyz/13,17,2 6.660104275
+P _part/56/_geo_xyz/13,17,1 1.916010499
+P _part/56/_geo_xyz/13,17,2 6.660104752
 P _part/56/_geo_xyz/13,2,0 1.262163281
 P _part/56/_geo_xyz/13,2,1 1.474052906
 P _part/56/_geo_xyz/13,2,2 6.660103798
@@ -18499,7 +18499,7 @@ P _part/56/_geo_xyz/13,9,0 -0.0
 P _part/56/_geo_xyz/13,9,1 -1.706036687
 P _part/56/_geo_xyz/13,9,2 6.660103798
 P _part/56/_geo_xyz/14,0,0 0.0
-P _part/56/_geo_xyz/14,0,1 1.454190493
+P _part/56/_geo_xyz/14,0,1 1.453412056
 P _part/56/_geo_xyz/14,0,2 9.350393295
 P _part/56/_geo_xyz/14,1,0 0.555462480
 P _part/56/_geo_xyz/14,1,1 1.400128126
@@ -18526,7 +18526,7 @@ P _part/56/_geo_xyz/14,16,0 -0.555462480
 P _part/56/_geo_xyz/14,16,1 1.400128126
 P _part/56/_geo_xyz/14,16,2 9.350391388
 P _part/56/_geo_xyz/14,17,0 -0.0
-P _part/56/_geo_xyz/14,17,1 1.454190493
+P _part/56/_geo_xyz/14,17,1 1.453412056
 P _part/56/_geo_xyz/14,17,2 9.350393295
 P _part/56/_geo_xyz/14,2,0 0.942919791
 P _part/56/_geo_xyz/14,2,1 1.086017132
@@ -18553,8 +18553,8 @@ P _part/56/_geo_xyz/14,9,0 -0.0
 P _part/56/_geo_xyz/14,9,1 -1.509492636
 P _part/56/_geo_xyz/14,9,2 9.350391388
 P _part/56/_geo_xyz/15,0,0 0.0
-P _part/56/_geo_xyz/15,0,1 1.017517924
-P _part/56/_geo_xyz/15,0,2 12.434387207
+P _part/56/_geo_xyz/15,0,1 1.017060399
+P _part/56/_geo_xyz/15,0,2 12.434383392
 P _part/56/_geo_xyz/15,1,0 0.248107806
 P _part/56/_geo_xyz/15,1,1 0.964899063
 P _part/56/_geo_xyz/15,1,2 12.434385300
@@ -18580,8 +18580,8 @@ P _part/56/_geo_xyz/15,16,0 -0.248107806
 P _part/56/_geo_xyz/15,16,1 0.964899063
 P _part/56/_geo_xyz/15,16,2 12.434385300
 P _part/56/_geo_xyz/15,17,0 -0.0
-P _part/56/_geo_xyz/15,17,1 1.017517924
-P _part/56/_geo_xyz/15,17,2 12.434387207
+P _part/56/_geo_xyz/15,17,1 1.017060399
+P _part/56/_geo_xyz/15,17,2 12.434383392
 P _part/56/_geo_xyz/15,2,0 0.458443433
 P _part/56/_geo_xyz/15,2,1 0.728009880
 P _part/56/_geo_xyz/15,2,2 12.434385300
@@ -18607,8 +18607,8 @@ P _part/56/_geo_xyz/15,9,0 -0.0
 P _part/56/_geo_xyz/15,9,1 -1.266509295
 P _part/56/_geo_xyz/15,9,2 12.434385300
 P _part/56/_geo_xyz/16,0,0 0.0
-P _part/56/_geo_xyz/16,0,1 1.242489934
-P _part/56/_geo_xyz/16,0,2 13.123362541
+P _part/56/_geo_xyz/16,0,1 1.243438363
+P _part/56/_geo_xyz/16,0,2 13.123359680
 P _part/56/_geo_xyz/16,1,0 0.210442066
 P _part/56/_geo_xyz/16,1,1 1.121734023
 P _part/56/_geo_xyz/16,1,2 13.123360634
@@ -18634,8 +18634,8 @@ P _part/56/_geo_xyz/16,16,0 -0.210442066
 P _part/56/_geo_xyz/16,16,1 1.121734023
 P _part/56/_geo_xyz/16,16,2 13.123360634
 P _part/56/_geo_xyz/16,17,0 -0.0
-P _part/56/_geo_xyz/16,17,1 1.242489934
-P _part/56/_geo_xyz/16,17,2 13.123362541
+P _part/56/_geo_xyz/16,17,1 1.243438363
+P _part/56/_geo_xyz/16,17,2 13.123359680
 P _part/56/_geo_xyz/16,2,0 0.388846189
 P _part/56/_geo_xyz/16,2,1 0.809067965
 P _part/56/_geo_xyz/16,2,2 13.123360634
@@ -18661,7 +18661,7 @@ P _part/56/_geo_xyz/16,9,0 -0.0
 P _part/56/_geo_xyz/16,9,1 -1.200892568
 P _part/56/_geo_xyz/16,9,2 13.123360634
 P _part/56/_geo_xyz/17,0,0 0.0
-P _part/56/_geo_xyz/17,0,1 1.687746763
+P _part/56/_geo_xyz/17,0,1 1.686351657
 P _part/56/_geo_xyz/17,0,2 13.746719360
 P _part/56/_geo_xyz/17,1,0 0.178020284
 P _part/56/_geo_xyz/17,1,1 1.427156329
@@ -18688,7 +18688,7 @@ P _part/56/_geo_xyz/17,16,0 -0.178020284
 P _part/56/_geo_xyz/17,16,1 1.427156329
 P _part/56/_geo_xyz/17,16,2 13.746717453
 P _part/56/_geo_xyz/17,17,0 -0.0
-P _part/56/_geo_xyz/17,17,1 1.687746763
+P _part/56/_geo_xyz/17,17,1 1.686351657
 P _part/56/_geo_xyz/17,17,2 13.746719360
 P _part/56/_geo_xyz/17,2,0 0.388554186
 P _part/56/_geo_xyz/17,2,1 0.963699877
@@ -18715,8 +18715,8 @@ P _part/56/_geo_xyz/17,9,0 -0.0
 P _part/56/_geo_xyz/17,9,1 -1.168084383
 P _part/56/_geo_xyz/17,9,2 13.746717453
 P _part/56/_geo_xyz/18,0,0 0.0
-P _part/56/_geo_xyz/18,0,1 1.010494709
-P _part/56/_geo_xyz/18,0,2 15.715221405
+P _part/56/_geo_xyz/18,0,1 1.010498643
+P _part/56/_geo_xyz/18,0,2 15.715222359
 P _part/56/_geo_xyz/18,1,0 0.164041981
 P _part/56/_geo_xyz/18,1,1 1.016868830
 P _part/56/_geo_xyz/18,1,2 15.715219498
@@ -18742,8 +18742,8 @@ P _part/56/_geo_xyz/18,16,0 -0.164041981
 P _part/56/_geo_xyz/18,16,1 1.016868830
 P _part/56/_geo_xyz/18,16,2 15.715219498
 P _part/56/_geo_xyz/18,17,0 -0.0
-P _part/56/_geo_xyz/18,17,1 1.010494709
-P _part/56/_geo_xyz/18,17,2 15.715221405
+P _part/56/_geo_xyz/18,17,1 1.010498643
+P _part/56/_geo_xyz/18,17,2 15.715222359
 P _part/56/_geo_xyz/18,2,0 0.154207483
 P _part/56/_geo_xyz/18,2,1 0.690945566
 P _part/56/_geo_xyz/18,2,2 15.715219498
@@ -18769,8 +18769,8 @@ P _part/56/_geo_xyz/18,9,0 -0.0
 P _part/56/_geo_xyz/18,9,1 -1.013923049
 P _part/56/_geo_xyz/18,9,2 15.715219498
 P _part/56/_geo_xyz/19,0,0 0.0
-P _part/56/_geo_xyz/19,0,1 -0.033038430
-P _part/56/_geo_xyz/19,0,2 15.715219498
+P _part/56/_geo_xyz/19,0,1 -0.032808397
+P _part/56/_geo_xyz/19,0,2 15.715222359
 P _part/56/_geo_xyz/19,1,0 0.0
 P _part/56/_geo_xyz/19,1,1 -0.036828123
 P _part/56/_geo_xyz/19,1,2 15.715219498
@@ -18796,8 +18796,8 @@ P _part/56/_geo_xyz/19,16,0 -0.0
 P _part/56/_geo_xyz/19,16,1 -0.036828123
 P _part/56/_geo_xyz/19,16,2 15.715219498
 P _part/56/_geo_xyz/19,17,0 -0.0
-P _part/56/_geo_xyz/19,17,1 -0.033038430
-P _part/56/_geo_xyz/19,17,2 15.715219498
+P _part/56/_geo_xyz/19,17,1 -0.032808397
+P _part/56/_geo_xyz/19,17,2 15.715222359
 P _part/56/_geo_xyz/19,2,0 0.0
 P _part/56/_geo_xyz/19,2,1 -0.047615197
 P _part/56/_geo_xyz/19,2,2 15.715219498
@@ -19652,8 +19652,8 @@ P _part/57/_bot_t1 0.751999974
 P _part/57/_bot_t2 0.998000026
 P _part/57/_damp 13.268877983
 P _part/57/_geo_xyz/0,0,0 0.0
-P _part/57/_geo_xyz/0,0,1 0.021091115
-P _part/57/_geo_xyz/0,0,2 0.018425208
+P _part/57/_geo_xyz/0,0,1 0.019685039
+P _part/57/_geo_xyz/0,0,2 0.019685039
 P _part/57/_geo_xyz/0,1,0 0.0
 P _part/57/_geo_xyz/0,1,1 0.021091115
 P _part/57/_geo_xyz/0,1,2 0.018425208
@@ -19679,8 +19679,8 @@ P _part/57/_geo_xyz/0,16,0 -0.0
 P _part/57/_geo_xyz/0,16,1 0.021091115
 P _part/57/_geo_xyz/0,16,2 0.018425208
 P _part/57/_geo_xyz/0,17,0 -0.0
-P _part/57/_geo_xyz/0,17,1 0.021091115
-P _part/57/_geo_xyz/0,17,2 0.018425208
+P _part/57/_geo_xyz/0,17,1 0.019685039
+P _part/57/_geo_xyz/0,17,2 0.019685039
 P _part/57/_geo_xyz/0,2,0 0.0
 P _part/57/_geo_xyz/0,2,1 0.021091115
 P _part/57/_geo_xyz/0,2,2 0.018425208
@@ -19706,8 +19706,8 @@ P _part/57/_geo_xyz/0,9,0 -0.0
 P _part/57/_geo_xyz/0,9,1 0.021091115
 P _part/57/_geo_xyz/0,9,2 0.018425208
 P _part/57/_geo_xyz/1,0,0 0.0
-P _part/57/_geo_xyz/1,0,1 0.173415855
-P _part/57/_geo_xyz/1,0,2 0.015748151
+P _part/57/_geo_xyz/1,0,1 0.173884511
+P _part/57/_geo_xyz/1,0,2 0.016404198
 P _part/57/_geo_xyz/1,1,0 0.203383595
 P _part/57/_geo_xyz/1,1,1 0.168728903
 P _part/57/_geo_xyz/1,1,2 0.015748121
@@ -19733,8 +19733,8 @@ P _part/57/_geo_xyz/1,16,0 -0.203383595
 P _part/57/_geo_xyz/1,16,1 0.168728903
 P _part/57/_geo_xyz/1,16,2 0.015748121
 P _part/57/_geo_xyz/1,17,0 -0.0
-P _part/57/_geo_xyz/1,17,1 0.173415855
-P _part/57/_geo_xyz/1,17,2 0.015748151
+P _part/57/_geo_xyz/1,17,1 0.173884511
+P _part/57/_geo_xyz/1,17,2 0.016404198
 P _part/57/_geo_xyz/1,2,0 0.284724146
 P _part/57/_geo_xyz/1,2,1 0.144549206
 P _part/57/_geo_xyz/1,2,2 0.015748121
@@ -20300,8 +20300,8 @@ P _part/57/_geo_xyz/19,9,0 0.0
 P _part/57/_geo_xyz/19,9,1 0.0
 P _part/57/_geo_xyz/19,9,2 0.0
 P _part/57/_geo_xyz/2,0,0 0.0
-P _part/57/_geo_xyz/2,0,1 0.206224248
-P _part/57/_geo_xyz/2,0,2 0.195538163
+P _part/57/_geo_xyz/2,0,1 0.206692919
+P _part/57/_geo_xyz/2,0,2 0.196850389
 P _part/57/_geo_xyz/2,1,0 0.301808774
 P _part/57/_geo_xyz/2,1,1 0.201537296
 P _part/57/_geo_xyz/2,1,2 0.195538133
@@ -20327,8 +20327,8 @@ P _part/57/_geo_xyz/2,16,0 -0.301808774
 P _part/57/_geo_xyz/2,16,1 0.201537296
 P _part/57/_geo_xyz/2,16,2 0.195538133
 P _part/57/_geo_xyz/2,17,0 -0.0
-P _part/57/_geo_xyz/2,17,1 0.206224248
-P _part/57/_geo_xyz/2,17,2 0.195538163
+P _part/57/_geo_xyz/2,17,1 0.206692919
+P _part/57/_geo_xyz/2,17,2 0.196850389
 P _part/57/_geo_xyz/2,2,0 0.383149326
 P _part/57/_geo_xyz/2,2,1 0.177357599
 P _part/57/_geo_xyz/2,2,2 0.195538133
@@ -20354,8 +20354,8 @@ P _part/57/_geo_xyz/2,9,0 -0.0
 P _part/57/_geo_xyz/2,9,1 -0.220285043
 P _part/57/_geo_xyz/2,9,2 0.195538133
 P _part/57/_geo_xyz/3,0,0 0.0
-P _part/57/_geo_xyz/3,0,1 0.304649442
-P _part/57/_geo_xyz/3,0,2 0.276903093
+P _part/57/_geo_xyz/3,0,1 0.305118114
+P _part/57/_geo_xyz/3,0,2 0.275590539
 P _part/57/_geo_xyz/3,1,0 0.505689621
 P _part/57/_geo_xyz/3,1,1 0.299962491
 P _part/57/_geo_xyz/3,1,2 0.276903063
@@ -20381,8 +20381,8 @@ P _part/57/_geo_xyz/3,16,0 -0.505689621
 P _part/57/_geo_xyz/3,16,1 0.299962491
 P _part/57/_geo_xyz/3,16,2 0.276903063
 P _part/57/_geo_xyz/3,17,0 -0.0
-P _part/57/_geo_xyz/3,17,1 0.304649442
-P _part/57/_geo_xyz/3,17,2 0.276903093
+P _part/57/_geo_xyz/3,17,1 0.305118114
+P _part/57/_geo_xyz/3,17,2 0.275590539
 P _part/57/_geo_xyz/3,2,0 0.514383018
 P _part/57/_geo_xyz/3,2,1 0.177357599
 P _part/57/_geo_xyz/3,2,2 0.276903063
@@ -20408,8 +20408,8 @@ P _part/57/_geo_xyz/3,9,0 -0.0
 P _part/57/_geo_xyz/3,9,1 -0.262467235
 P _part/57/_geo_xyz/3,9,2 0.276903063
 P _part/57/_geo_xyz/4,0,0 0.0
-P _part/57/_geo_xyz/4,0,1 0.107799098
-P _part/57/_geo_xyz/4,0,2 0.637795985
+P _part/57/_geo_xyz/4,0,1 0.108267717
+P _part/57/_geo_xyz/4,0,2 0.636482954
 P _part/57/_geo_xyz/4,1,0 0.571306467
 P _part/57/_geo_xyz/4,1,1 0.103112161
 P _part/57/_geo_xyz/4,1,2 0.637795985
@@ -20435,8 +20435,8 @@ P _part/57/_geo_xyz/4,16,0 -0.571306467
 P _part/57/_geo_xyz/4,16,1 0.103112161
 P _part/57/_geo_xyz/4,16,2 0.637795985
 P _part/57/_geo_xyz/4,17,0 -0.0
-P _part/57/_geo_xyz/4,17,1 0.107799098
-P _part/57/_geo_xyz/4,17,2 0.637795985
+P _part/57/_geo_xyz/4,17,1 0.108267717
+P _part/57/_geo_xyz/4,17,2 0.636482954
 P _part/57/_geo_xyz/4,2,0 0.547191441
 P _part/57/_geo_xyz/4,2,1 0.013315621
 P _part/57/_geo_xyz/4,2,2 0.637795985
@@ -20462,8 +20462,8 @@ P _part/57/_geo_xyz/4,9,0 -0.0
 P _part/57/_geo_xyz/4,9,1 -0.328084022
 P _part/57/_geo_xyz/4,9,2 0.637795985
 P _part/57/_geo_xyz/5,0,0 0.0
-P _part/57/_geo_xyz/5,0,1 -0.318710089
-P _part/57/_geo_xyz/5,0,2 1.818898082
+P _part/57/_geo_xyz/5,0,1 -0.318241477
+P _part/57/_geo_xyz/5,0,2 1.817585349
 P _part/57/_geo_xyz/5,1,0 0.604114890
 P _part/57/_geo_xyz/5,1,1 -0.323396981
 P _part/57/_geo_xyz/5,1,2 1.818898082
@@ -20489,8 +20489,8 @@ P _part/57/_geo_xyz/5,16,0 -0.604114890
 P _part/57/_geo_xyz/5,16,1 -0.323396981
 P _part/57/_geo_xyz/5,16,2 1.818898082
 P _part/57/_geo_xyz/5,17,0 -0.0
-P _part/57/_geo_xyz/5,17,1 -0.318710089
-P _part/57/_geo_xyz/5,17,2 1.818898082
+P _part/57/_geo_xyz/5,17,1 -0.318241477
+P _part/57/_geo_xyz/5,17,2 1.817585349
 P _part/57/_geo_xyz/5,2,0 0.579999864
 P _part/57/_geo_xyz/5,2,1 -0.314768344
 P _part/57/_geo_xyz/5,2,2 1.818898082
@@ -20516,8 +20516,8 @@ P _part/57/_geo_xyz/5,9,0 -0.0
 P _part/57/_geo_xyz/5,9,1 -0.426509231
 P _part/57/_geo_xyz/5,9,2 1.818898082
 P _part/57/_geo_xyz/6,0,0 0.0
-P _part/57/_geo_xyz/6,0,1 -0.426509082
-P _part/57/_geo_xyz/6,0,2 2.704726696
+P _part/57/_geo_xyz/6,0,1 -0.426509172
+P _part/57/_geo_xyz/6,0,2 2.703412056
 P _part/57/_geo_xyz/6,1,0 0.623359799
 P _part/57/_geo_xyz/6,1,1 -0.426509082
 P _part/57/_geo_xyz/6,1,2 2.704725981
@@ -20543,8 +20543,8 @@ P _part/57/_geo_xyz/6,16,0 -0.623359799
 P _part/57/_geo_xyz/6,16,1 -0.426509082
 P _part/57/_geo_xyz/6,16,2 2.704725981
 P _part/57/_geo_xyz/6,17,0 -0.0
-P _part/57/_geo_xyz/6,17,1 -0.426509082
-P _part/57/_geo_xyz/6,17,2 2.704726696
+P _part/57/_geo_xyz/6,17,1 -0.426509172
+P _part/57/_geo_xyz/6,17,2 2.703412056
 P _part/57/_geo_xyz/6,2,0 0.622182190
 P _part/57/_geo_xyz/6,2,1 -0.426509082
 P _part/57/_geo_xyz/6,2,2 2.704725981
@@ -20570,8 +20570,8 @@ P _part/57/_geo_xyz/6,9,0 -0.0
 P _part/57/_geo_xyz/6,9,1 -0.492126018
 P _part/57/_geo_xyz/6,9,2 2.704725981
 P _part/57/_geo_xyz/7,0,0 0.0
-P _part/57/_geo_xyz/7,0,1 -0.421822399
-P _part/57/_geo_xyz/7,0,2 2.687664270
+P _part/57/_geo_xyz/7,0,1 -0.423228323
+P _part/57/_geo_xyz/7,0,2 2.687007904
 P _part/57/_geo_xyz/7,1,0 0.0
 P _part/57/_geo_xyz/7,1,1 -0.421822399
 P _part/57/_geo_xyz/7,1,2 2.687664032
@@ -20597,8 +20597,8 @@ P _part/57/_geo_xyz/7,16,0 -0.0
 P _part/57/_geo_xyz/7,16,1 -0.421822399
 P _part/57/_geo_xyz/7,16,2 2.687664032
 P _part/57/_geo_xyz/7,17,0 -0.0
-P _part/57/_geo_xyz/7,17,1 -0.421822399
-P _part/57/_geo_xyz/7,17,2 2.687664270
+P _part/57/_geo_xyz/7,17,1 -0.423228323
+P _part/57/_geo_xyz/7,17,2 2.687007904
 P _part/57/_geo_xyz/7,2,0 0.0
 P _part/57/_geo_xyz/7,2,1 -0.421822399
 P _part/57/_geo_xyz/7,2,2 2.687664032
@@ -21099,14 +21099,14 @@ P _part/57/_locked/j_count 18
 P _part/57/_part_cd 0.075000003
 P _part/57/_part_phi 0.0
 P _part/57/_part_psi 0.0
-P _part/57/_part_rad 0.656168163
+P _part/57/_part_rad 0.656167984
 P _part/57/_part_specs_eq 1
 P _part/57/_part_specs_invis 1
 P _part/57/_part_tex 1
 P _part/57/_part_the 0.0
 P _part/57/_part_x 0.0
-P _part/57/_part_y -1.279529095
-P _part/57/_part_z -4.396331310
+P _part/57/_part_y -1.279527545
+P _part/57/_part_z -4.396325588
 P _part/57/_patt_con 0
 P _part/57/_patt_prt 0
 P _part/57/_patt_rat 0.0
@@ -52257,14 +52257,14 @@ P _wing/0/_ailn2/count 10
 P _wing/0/_c_off_for_RIB/0 0.0
 P _wing/0/_c_off_for_RIB/1 0.0
 P _wing/0/_c_off_for_RIB/10 0.0
-P _wing/0/_c_off_for_RIB/2 0.000000000
+P _wing/0/_c_off_for_RIB/2 0.0
 P _wing/0/_c_off_for_RIB/3 0.000217581
 P _wing/0/_c_off_for_RIB/4 0.000000001
 P _wing/0/_c_off_for_RIB/5 -0.000203087
 P _wing/0/_c_off_for_RIB/6 -0.000199842
 P _wing/0/_c_off_for_RIB/7 -0.000203087
 P _wing/0/_c_off_for_RIB/8 0.000000001
-P _wing/0/_c_off_for_RIB/9 0.000000000
+P _wing/0/_c_off_for_RIB/9 0.0
 P _wing/0/_c_off_for_RIB/count 11
 P _wing/0/_c_rat_for_RIB/0 1.0
 P _wing/0/_c_rat_for_RIB/1 1.0
@@ -52317,14 +52317,14 @@ P _wing/0/_crib_y_arm/count 11
 P _wing/0/_crib_z_arm/0 0.0
 P _wing/0/_crib_z_arm/1 0.0
 P _wing/0/_crib_z_arm/10 0.0
-P _wing/0/_crib_z_arm/2 0.000000000
+P _wing/0/_crib_z_arm/2 0.0
 P _wing/0/_crib_z_arm/3 0.000099246
 P _wing/0/_crib_z_arm/4 0.000000000
 P _wing/0/_crib_z_arm/5 -0.000094324
 P _wing/0/_crib_z_arm/6 -0.000091864
 P _wing/0/_crib_z_arm/7 -0.000089403
 P _wing/0/_crib_z_arm/8 0.000000000
-P _wing/0/_crib_z_arm/9 0.000000000
+P _wing/0/_crib_z_arm/9 0.0
 P _wing/0/_crib_z_arm/count 11
 P _wing/0/_dihed_design 0.0
 P _wing/0/_dihed_full_up 0.0
@@ -55826,8 +55826,8 @@ P _wing/21/_yawbr/7 0
 P _wing/21/_yawbr/8 0
 P _wing/21/_yawbr/9 0
 P _wing/21/_yawbr/count 10
-P _wing/22/_Croot 0.853018522
-P _wing/22/_Ctip 0.853018522
+P _wing/22/_Croot 0.853018343
+P _wing/22/_Ctip 0.853018343
 P _wing/22/_afl_file_R0 NACA0030_Re1.50_M0.12_N11.0.afl
 P _wing/22/_afl_file_R1 NACA0030_Re1.50_M0.12_N11.0.afl
 P _wing/22/_afl_file_T0 NACA0030_Re1.50_M0.12_N11.0.afl
@@ -55878,8 +55878,8 @@ P _wing/22/_c_rat_for_RIB/7 1.0
 P _wing/22/_c_rat_for_RIB/8 1.0
 P _wing/22/_c_rat_for_RIB/9 1.0
 P _wing/22/_c_rat_for_RIB/count 11
-P _wing/22/_chord_for_RIB/0 0.853018522
-P _wing/22/_chord_for_RIB/1 0.853018522
+P _wing/22/_chord_for_RIB/0 0.853018343
+P _wing/22/_chord_for_RIB/1 0.853018343
 P _wing/22/_chord_for_RIB/10 0.0
 P _wing/22/_chord_for_RIB/2 0.0
 P _wing/22/_chord_for_RIB/3 0.0
@@ -55902,8 +55902,8 @@ P _wing/22/_crib_x_arm/7 0.0
 P _wing/22/_crib_x_arm/8 0.0
 P _wing/22/_crib_x_arm/9 0.0
 P _wing/22/_crib_x_arm/count 11
-P _wing/22/_crib_y_arm/0 -2.952755928
-P _wing/22/_crib_y_arm/1 -1.498807549
+P _wing/22/_crib_y_arm/0 -2.952755690
+P _wing/22/_crib_y_arm/1 -1.498807430
 P _wing/22/_crib_y_arm/10 0.0
 P _wing/22/_crib_y_arm/2 0.0
 P _wing/22/_crib_y_arm/3 0.0
@@ -55914,8 +55914,8 @@ P _wing/22/_crib_y_arm/7 0.0
 P _wing/22/_crib_y_arm/8 0.0
 P _wing/22/_crib_y_arm/9 0.0
 P _wing/22/_crib_y_arm/count 11
-P _wing/22/_crib_z_arm/0 2.755907297
-P _wing/22/_crib_z_arm/1 3.012277603
+P _wing/22/_crib_z_arm/0 2.755905390
+P _wing/22/_crib_z_arm/1 3.012275696
 P _wing/22/_crib_z_arm/10 0.0
 P _wing/22/_crib_z_arm/2 0.0
 P _wing/22/_crib_z_arm/3 0.0
@@ -56123,7 +56123,7 @@ P _wing/22/_sbrk2/8 0
 P _wing/22/_sbrk2/9 0
 P _wing/22/_sbrk2/count 10
 P _wing/22/_semilen_JND 0.0
-P _wing/22/_semilen_SEG 1.476377964
+P _wing/22/_semilen_SEG 1.476377845
 P _wing/22/_slat1/0 0
 P _wing/22/_slat1/1 0
 P _wing/22/_slat1/2 0
@@ -57772,9 +57772,19 @@ P acf/_ann_wav_file/105 autopilot_fail.wav
 P acf/_ann_wav_file/106 autopilot_fail.wav
 P acf/_ann_wav_file/107 autopilot_fail.wav
 P acf/_ann_wav_file/108 autopilot_fail.wav
+P acf/_ann_wav_file/109 NormThrottle.wav
+P acf/_ann_wav_file/11 antonov_an-26 boom3.wav
+P acf/_ann_wav_file/110 NormThrottle.wav
+P acf/_ann_wav_file/111 NormThrottle.wav
+P acf/_ann_wav_file/112 NormThrottle.wav
+P acf/_ann_wav_file/113 NormThrottle.wav
+P acf/_ann_wav_file/114 NormThrottle.wav
+P acf/_ann_wav_file/115 NormThrottle.wav
+P acf/_ann_wav_file/116 NormThrottle.wav
 P acf/_ann_wav_file/117 silence.wav
 P acf/_ann_wav_file/118 silence.wav
 P acf/_ann_wav_file/119 silence.wav
+P acf/_ann_wav_file/12 rotor-high.wav
 P acf/_ann_wav_file/120 silence.wav
 P acf/_ann_wav_file/121 silence.wav
 P acf/_ann_wav_file/122 silence.wav
@@ -57796,6 +57806,7 @@ P acf/_ann_wav_file/136 autopilot_disco.wav
 P acf/_ann_wav_file/137 autopilot_disco.wav
 P acf/_ann_wav_file/138 autopilot_disco.wav
 P acf/_ann_wav_file/139 autopilot_disco.wav
+P acf/_ann_wav_file/14 Transonic.wav
 P acf/_ann_wav_file/140 autopilot_disco.wav
 P acf/_ann_wav_file/141 autopilot_fail.wav
 P acf/_ann_wav_file/142 autopilot_fail.wav
@@ -57805,8 +57816,25 @@ P acf/_ann_wav_file/145 autopilot_fail.wav
 P acf/_ann_wav_file/146 autopilot_fail.wav
 P acf/_ann_wav_file/147 autopilot_fail.wav
 P acf/_ann_wav_file/148 autopilot_fail.wav
+P acf/_ann_wav_file/149 NormThrottle.wav
 P acf/_ann_wav_file/15 SLAT.wav
+P acf/_ann_wav_file/150 NormThrottle.wav
+P acf/_ann_wav_file/151 NormThrottle.wav
+P acf/_ann_wav_file/152 NormThrottle.wav
+P acf/_ann_wav_file/153 NormThrottle.wav
+P acf/_ann_wav_file/154 NormThrottle.wav
+P acf/_ann_wav_file/155 NormThrottle.wav
+P acf/_ann_wav_file/156 NormThrottle.wav
+P acf/_ann_wav_file/157 NormThrottle.wav
+P acf/_ann_wav_file/158 NormThrottle.wav
+P acf/_ann_wav_file/159 NormThrottle.wav
 P acf/_ann_wav_file/16 autopilot_disco.wav
+P acf/_ann_wav_file/160 NormThrottle.wav
+P acf/_ann_wav_file/161 NormThrottle.wav
+P acf/_ann_wav_file/162 NormThrottle.wav
+P acf/_ann_wav_file/163 NormThrottle.wav
+P acf/_ann_wav_file/164 NormThrottle.wav
+P acf/_ann_wav_file/165 NormThrottle.wav
 P acf/_ann_wav_file/166 autopilot_disco.wav
 P acf/_ann_wav_file/167 autopilot_fail.wav
 P acf/_ann_wav_file/168 alarm.wav
@@ -57814,13 +57842,18 @@ P acf/_ann_wav_file/169 autopilot_fail.wav
 P acf/_ann_wav_file/17 autopilot_disco.wav
 P acf/_ann_wav_file/170 autopilot_disco.wav
 P acf/_ann_wav_file/171 silence.wav
+P acf/_ann_wav_file/172 mute.wav
+P acf/_ann_wav_file/173 mute.wav
 P acf/_ann_wav_file/174 Eclipse APU.wav
 P acf/_ann_wav_file/175 key_in_starter.wav
+P acf/_ann_wav_file/176 MD80 glideslope.WAV
 P acf/_ann_wav_file/177 autopilot_fail.wav
 P acf/_ann_wav_file/178 silence.wav
 P acf/_ann_wav_file/179 silence.wav
 P acf/_ann_wav_file/18 autopilot_disco.wav
 P acf/_ann_wav_file/180 bankangle.wav
+P acf/_ann_wav_file/181 mute.wav
+P acf/_ann_wav_file/182 mute.wav
 P acf/_ann_wav_file/19 primer_in.wav
 P acf/_ann_wav_file/20 primer_out.wav
 P acf/_ann_wav_file/21 autopilot_fail.wav
@@ -57849,7 +57882,15 @@ P acf/_ann_wav_file/41 autopilot_fail.wav
 P acf/_ann_wav_file/42 autopilot_fail.wav
 P acf/_ann_wav_file/43 autopilot_fail.wav
 P acf/_ann_wav_file/44 autopilot_fail.wav
+P acf/_ann_wav_file/45 Warning.wav
+P acf/_ann_wav_file/46 Warning.wav
+P acf/_ann_wav_file/47 Warning.wav
+P acf/_ann_wav_file/48 Warning.wav
+P acf/_ann_wav_file/49 Warning.wav
 P acf/_ann_wav_file/5 autopilot_fail.wav
+P acf/_ann_wav_file/50 Warning.wav
+P acf/_ann_wav_file/51 Warning.wav
+P acf/_ann_wav_file/52 Warning.wav
 P acf/_ann_wav_file/53 autopilot_fail.wav
 P acf/_ann_wav_file/54 autopilot_fail.wav
 P acf/_ann_wav_file/55 autopilot_fail.wav
@@ -57876,7 +57917,15 @@ P acf/_ann_wav_file/73 silence.wav
 P acf/_ann_wav_file/74 silence.wav
 P acf/_ann_wav_file/75 silence.wav
 P acf/_ann_wav_file/76 silence.wav
+P acf/_ann_wav_file/77 Warning.wav
+P acf/_ann_wav_file/78 Warning.wav
+P acf/_ann_wav_file/79 Warning.wav
 P acf/_ann_wav_file/8 silence.wav
+P acf/_ann_wav_file/80 Warning.wav
+P acf/_ann_wav_file/81 Warning.wav
+P acf/_ann_wav_file/82 Warning.wav
+P acf/_ann_wav_file/83 Warning.wav
+P acf/_ann_wav_file/84 Warning.wav
 P acf/_ann_wav_file/85 CUSTOM/
 P acf/_ann_wav_file/86 CUSTOM/
 P acf/_ann_wav_file/87 CUSTOM/
@@ -58169,7 +58218,7 @@ P acf/_chute_z/count 3
 P acf/_click_step_otto_alt 10.0
 P acf/_click_step_otto_vvi 100.0
 P acf/_click_step_radio_alt 10.0
-P acf/_cockpit_obj_flags 1
+P acf/_cockpit_obj_flags 9
 P acf/_cockpit_planned_vanish_y/0 580.0
 P acf/_cockpit_planned_vanish_y/1 580.0
 P acf/_cockpit_planned_vanish_y/2 580.0
@@ -58189,7 +58238,7 @@ P acf/_collective_EQ 0
 P acf/_collective_en 0
 P acf/_con_smooth 1
 P acf/_cowl_flap_frontal_area 0.0
-P acf/_cowl_x_ctr 3422.333251953
+P acf/_cowl_x_ctr 4498.500000000
 P acf/_crew_1/0 0.0
 P acf/_crew_1/1 0.0
 P acf/_crew_1/2 0.0
@@ -58609,7 +58658,7 @@ P acf/_cus_rnd_hi_ang/9 0.0
 P acf/_cus_rnd_hi_ang/count 50
 P acf/_cus_rnd_hi_val/0 173.0
 P acf/_cus_rnd_hi_val/1 0.0
-P acf/_cus_rnd_hi_val/10 19.0
+P acf/_cus_rnd_hi_val/10 18.0
 P acf/_cus_rnd_hi_val/11 0.0
 P acf/_cus_rnd_hi_val/12 800.0
 P acf/_cus_rnd_hi_val/13 550.0
@@ -59468,7 +59517,7 @@ P acf/_green_hi_gen_volt 0.0
 P acf/_green_hi_oilP 7.0
 P acf/_green_hi_oilT 118.0
 P acf/_green_hi_pwr 0.0
-P acf/_green_hi_vac 4.800000191
+P acf/_green_hi_vac 5.199999809
 P acf/_green_hi_xmsn_P 0.0
 P acf/_green_hi_xmsn_T 0.0
 P acf/_green_lo_CHT 150.0
@@ -59489,7 +59538,7 @@ P acf/_green_lo_gen_volt 0.0
 P acf/_green_lo_oilP 3.0
 P acf/_green_lo_oilT 60.0
 P acf/_green_lo_pwr 0.0
-P acf/_green_lo_vac 3.200000048
+P acf/_green_lo_vac 4.500000000
 P acf/_green_lo_xmsn_P 0.0
 P acf/_green_lo_xmsn_T 0.0
 P acf/_ground_pwr/0 0.0
@@ -59649,14 +59698,14 @@ P acf/_max_gen_amp_per_gen/count 8
 P acf/_max_mach_eff 0.800000012
 P acf/_max_oilT 125.0
 P acf/_max_press_diff 0.0
-P acf/_max_vac 4.0
+P acf/_max_vac 5.0
 P acf/_max_xmsn_P 1.0
 P acf/_max_xmsn_T 1.0
 P acf/_min_n1 10.0
 P acf/_min_n2 46.0
 P acf/_min_rwy_len 0.0
 P acf/_min_vec_on_ground 0.0
-P acf/_mixt_x_ctr 3364.666748047
+P acf/_mixt_x_ctr 3368.0
 P acf/_n1_power_curve1 2.0
 P acf/_n1_power_curve2 3.0
 P acf/_n_ref 0.0
@@ -59730,13 +59779,22 @@ P acf/_part_descrip/75 tfeLnaL gnidaeG tS r
 P acf/_part_descrip/76 GPS Dome
 P acf/_part_descrip/77 ecan
 P acf/_part_descrip/78 serpra e
+P acf/_part_descrip/79 Prop3 gearbox
+P acf/_part_descrip/80 Prop4 gearbox
 P acf/_part_descrip/85 Front Wheel Fairing
 P acf/_part_descrip/86 Right Wheel Fairing
 P acf/_part_descrip/87 Left Wheel Fairing
+P acf/_part_descrip/88 nose landing gear fairing
+P acf/_part_descrip/89 esoNaeG iS rF edgnal
+P acf/_part_descrip/90 cargo
+P acf/_part_descrip/91 cargo
+P acf/_part_descrip/92 Nosegear axle truck
+P acf/_part_descrip/93 Nosegear steering link arm2
+P acf/_part_descrip/94 Nosegear axle truck
 P acf/_part_descrip/count 95
-P acf/_pe_xyz/0 -0.492125988
-P acf/_pe_xyz/1 1.706036687
-P acf/_pe_xyz/2 2.460629940
+P acf/_pe_xyz/0 -0.688976347
+P acf/_pe_xyz/1 1.640419960
+P acf/_pe_xyz/2 1.968503952
 P acf/_pe_xyz/count 3
 P acf/_phase_hdng_tvect_in_at_00 0
 P acf/_phase_hdng_tvect_in_at_90 0
@@ -59752,7 +59810,7 @@ P acf/_pitch_cyc_with_v2_kts 0.0
 P acf/_power_max_limit 200.0
 P acf/_prop_inlet_recovery 0.0
 P acf/_prop_pitch_deg_per_sec 45.0
-P acf/_prop_x_ctr 3320.666748047
+P acf/_prop_x_ctr 4441.0
 P acf/_ptch_but_adjusts_alt_hold 0
 P acf/_puff_LMN/0 0.0
 P acf/_puff_LMN/1 0.0
@@ -59776,7 +59834,7 @@ P acf/_radio_alt_callout_advance 0.0
 P acf/_red_hi_CHT 500.0
 P acf/_red_hi_EGT 680.0
 P acf/_red_hi_EPR 0.0
-P acf/_red_hi_FF 19.0
+P acf/_red_hi_FF 18.0
 P acf/_red_hi_ITT 680.0
 P acf/_red_hi_MP 35.0
 P acf/_red_hi_N1 100.0
@@ -59791,7 +59849,7 @@ P acf/_red_hi_gen_volt 0.0
 P acf/_red_hi_oilP 9.0
 P acf/_red_hi_oilT 118.0
 P acf/_red_hi_pwr 0.0
-P acf/_red_hi_vac 8.0
+P acf/_red_hi_vac 5.199999809
 P acf/_red_hi_xmsn_P 0.0
 P acf/_red_hi_xmsn_T 0.0
 P acf/_red_lo_CHT 0.0
@@ -59812,7 +59870,7 @@ P acf/_red_lo_gen_volt 0.0
 P acf/_red_lo_oilP 1.0
 P acf/_red_lo_oilT 0.0
 P acf/_red_lo_pwr 0.0
-P acf/_red_lo_vac 0.0
+P acf/_red_lo_vac 4.500000000
 P acf/_red_lo_xmsn_P 0.0
 P acf/_red_lo_xmsn_T 0.0
 P acf/_refuel_rcv/0 0.0
@@ -59998,24 +60056,24 @@ P acf/_spot3_3d_xyz/0 0.0
 P acf/_spot3_3d_xyz/1 0.0
 P acf/_spot3_3d_xyz/2 0.0
 P acf/_spot3_3d_xyz/count 3
-P acf/_spot_angle/0 20.0
-P acf/_spot_angle/1 15.0
+P acf/_spot_angle/0 17.0
+P acf/_spot_angle/1 17.0
 P acf/_spot_angle/2 0.0
 P acf/_spot_angle/count 3
-P acf/_spot_name_3d/0 sim/cockpit2/electrical/panel_brightness_ratio[0]
-P acf/_spot_name_3d/1 sim/cockpit2/electrical/panel_brightness_ratio[0]
+P acf/_spot_name_3d/0 sim/cockpit2/electrical/panel_brightness_ratio[1]
+P acf/_spot_name_3d/1 sim/cockpit2/electrical/panel_brightness_ratio[2]
 P acf/_spot_name_3d/2 none
 P acf/_spot_name_3d/count 3
-P acf/_spot_psi/0 -2.0
-P acf/_spot_psi/1 -7.0
+P acf/_spot_psi/0 -4.0
+P acf/_spot_psi/1 -8.0
 P acf/_spot_psi/2 0.0
 P acf/_spot_psi/count 3
-P acf/_spot_size/0 10.0
-P acf/_spot_size/1 10.0
+P acf/_spot_size/0 20.0
+P acf/_spot_size/1 20.0
 P acf/_spot_size/2 0.010000000
 P acf/_spot_size/count 3
-P acf/_spot_the/0 -25.0
-P acf/_spot_the/1 -35.0
+P acf/_spot_the/0 -15.0
+P acf/_spot_the/1 -40.0
 P acf/_spot_the/2 0.0
 P acf/_spot_the/count 3
 P acf/_sster_def_time 0.0
@@ -60097,7 +60155,7 @@ P acf/_tank_xyz/8,2 0.0
 P acf/_tank_xyz/i_count 9
 P acf/_tank_xyz/j_count 3
 P acf/_the_eqlbm -0.257265836
-P acf/_thro_x_ctr 2099.399902344
+P acf/_thro_x_ctr 3057.333251953
 P acf/_throt_max_fwd_emr 0.829999983
 P acf/_throt_max_fwd_nrm 0.829999983
 P acf/_throt_max_rev 0.0
@@ -60357,7 +60415,7 @@ rhe_ins_brt_GA rhe_instrument_brt
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
-but_taxi_light but_taxi_light
+but_land_light but_land_light
   POS 884.000000 406.000000
   DATAREF 
   SIZE 1.500000
@@ -60365,7 +60423,7 @@ but_taxi_light but_taxi_light
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
-but_land_light but_land_light
+but_taxi_light but_taxi_light
   POS 911.000000 406.000000
   DATAREF 
   SIZE 1.500000
@@ -60573,14 +60631,14 @@ eng_rnd_FF engine_FF
   BUS_SRC 1
 
 ins_fuel_round_GA fuel_round
-  POS 445.000000 -75.000000
+  POS 445.000000 -50.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 ins_fuel_round_GA fuel_round_aux
-  POS 525.000000 -75.000000
+  POS 525.000000 -50.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -60593,6 +60651,15 @@ eng_rnd_CHT engine_CHT
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
+
+eng_rnd_EGT engine_EGT
+  POS 925.000000 -75.000000
+  DATAREF 
+  SIZE 0.750000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
 
 han_prop_vern han_prop_vernier
   POS 690.000000 -75.000000
@@ -60619,14 +60686,14 @@ but_fuel_pump but_fuelpump
   BUS_SRC 1
 
 but_fuel_off_any but_fuel
-  POS 820.000000 -10.000000
+  POS 820.000000 -75.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 but_xfr_fr_l_r but_fuel_xfr
-  POS 875.000000 -10.000000
+  POS 875.000000 -75.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -60685,7 +60752,7 @@ han_cowlflaps han_cowlflaps_B
   BUS_SRC 1
 
 flap_ind_rnd indicate_flap_round
-  POS 850.000000 -75.000000
+  POS 850.000000 30.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -60730,164 +60797,302 @@ compass_BC compass
   BUS_SRC 1
 
 but_ann_test but_ann_test
-  POS 475.000000 1520.000000
+  POS 420.000000 1530.000000
   DATAREF 
-  SIZE 1.600000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
-ann_oil_press_lo ann_oil_press
-  POS 540.000000 1520.000000
+gen_annun gen_ann_oilP
+  POS 500.000000 1535.000000
+  IMAGE ann_oilP
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/oil_pressure_low[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Low oil pressure indicator
 
-ann_oil_temp_hi ann_oil_temp
-  POS 592.000000 1520.000000
+gen_annun gen_ann_fuelP
+  POS 560.000000 1535.000000
+  IMAGE ann_fuelP
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/fuel_pressure_low[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Low fuel pressure indicator
 
-ann_fuel_press_lo ann_fuel_press
-  POS 644.000000 1520.000000
+gen_annun gen_ann_fuel
+  POS 620.000000 1535.000000
+  IMAGE ann_fuel
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/fuel_quantity[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Low fuel quantity indicator
 
-ann_fuel_quant ann_fuel_quantity
-  POS 696.000000 1520.000000
+gen_annun gen_ann_charge
+  POS 680.000000 1535.000000
+  IMAGE ann_charge
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/generator_off[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Low alternator output indicator
 
-ann_generator_off ann_generator
-  POS 748.000000 1520.000000
+gen_annun gen_ann_starter
+  POS 740.000000 1535.000000
+  IMAGE ann_starter
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/igniter_on[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Starter indicator
+  COMMENT (normally indicates starter overheating; not possible in X-Plane)
 
-ann_low_voltage ann_low_voltage
-  POS 800.000000 1520.000000
+gen_annun gen_ann_flaps
+  POS 800.000000 1535.000000
+  IMAGE ann_flaps
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.100000 sim/cockpit2/controls/flap_ratio[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Flaps down indicator
 
-ann_reverse_on ann_reverse
-  POS 852.000000 1520.000000
+gen_annun gen_ann_sby1
+  POS 860.000000 1535.000000
+  IMAGE ann_green
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/reverser_on[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP (reserved)
 
-ann_reverse_on ann_reverse
-  POS 904.000000 1520.000000
+gen_annun gen_ann_sby2
+  POS 920.000000 1535.000000
+  IMAGE ann_yellow
   DATAREF 
-  SIZE 1.800000
+  SHOW_GREATER 0.500000 sim/cockpit2/annunciators/reverser_on[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP (reserved)
 
-ins_tailnum tailnum.png
-  POS 720.000000 1475.000000
+gen_text gen_stk_VFR
+  POS 590.000000 1477.000000
+  IMAGE stk_VFR
   DATAREF 
-  SIZE 1.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
 
-rhe_pan_brt_GA rhe_flood_brt
-  POS 1180.000000 1515.000000
+gen_text gen_stk_tailnum
+  POS 850.000000 1477.000000
+  IMAGE stk_HBKDY
   DATAREF 
-  SIZE 1.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
 
-rhe_pan_brt_GA rhe_flood_brt
-  POS 1260.000000 1515.000000
+gen_text gen_fake_ELT
+  POS 1045.000000 1515.000000
+  IMAGE ELT
   DATAREF 
-  SIZE 1.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP Emergency Locator Transmitter (ELT)
+  OFFSET_X 3
+  OFFSET_Y 0.000000
 
-rhe_ins_brt_GA rhe_instrument_brt
-  POS 1340.000000 1515.000000
+gen_text gen_stk_rheostats
+  POS 1250.000000 1515.000000
+  IMAGE stk_rheostats
   DATAREF 
-  SIZE 1.800000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
+
+gen_rheostat gen_rhe_lighting1
+  POS 1170.000000 1525.000000
+  IMAGE rhe_lighting1
+  DATAREF sim/cockpit2/switches/panel_brightness_ratio[1]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 270.000000
+  TOOLTIP Top panel lighting
+  CLICK_RADIUS 20.000000
+  CLICK_RADIUS_DY 0.000000
+  STEP1 5.000000
+  STEP2 50.000000
+  OFFSET 4.000000
+  CURSOR DEFAULT
+  CLICK_DX 0
+  CLICK_DY 0
+  WRAP 0
+
+gen_rheostat gen_rhe_lighting2
+  POS 1250.000000 1525.000000
+  IMAGE rhe_lighting2
+  DATAREF sim/cockpit2/switches/panel_brightness_ratio[2]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 270.000000
+  TOOLTIP Bottom panel lighting
+  CLICK_RADIUS 20.000000
+  CLICK_RADIUS_DY 0.000000
+  STEP1 5.000000
+  STEP2 50.000000
+  OFFSET 4.000000
+  CURSOR DEFAULT
+  CLICK_DX 0
+  CLICK_DY 0
+  WRAP 0
+
+gen_rheostat gen_rhe_radio
+  POS 1330.000000 1525.000000
+  IMAGE rhe_radio
+  DATAREF sim/cockpit2/switches/instrument_brightness_ratio[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 270.000000
+  TOOLTIP Radio instruments lighting
+  CLICK_RADIUS 20.000000
+  CLICK_RADIUS_DY 0.000000
+  STEP1 5.000000
+  STEP2 50.000000
+  OFFSET 4.000000
+  CURSOR DEFAULT
+  CLICK_DX 0
+  CLICK_DY 0
+  WRAP 0
+
+gen_text gen_stk_buttons
+  POS 1532.000000 1515.000000
+  IMAGE stk_buttons
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
+
+but_land_light but_land_light
+  POS 1425.000000 1515.000000
+  DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 but_taxi_light but_taxi_light
-  POS 1425.000000 1520.000000
+  POS 1475.000000 1515.000000
   DATAREF 
-  SIZE 2.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_land_light but_land_light
-  POS 1475.000000 1520.000000
-  DATAREF 
-  SIZE 2.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 but_strobe_light but_strobe_light
-  POS 1525.000000 1520.000000
+  POS 1525.000000 1515.000000
   DATAREF 
-  SIZE 2.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 but_nav_light but_nav_light
-  POS 1575.000000 1520.000000
+  POS 1575.000000 1515.000000
   DATAREF 
-  SIZE 2.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
 but_avionics but_avionics
-  POS 1650.000000 1520.000000
+  POS 1645.000000 1515.000000
   DATAREF 
-  SIZE 2.800000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
-ins_suction suction
+gen_needle gen_suction
   POS 55.000000 1005.000000
-  DATAREF 
-  SIZE 2.000000
+  IMAGE suction
+  DATAREF sim/cockpit2/gauges/indicators/suction_1_ratio
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 -100.000000 1.000000
+  KEY_FRAME 3.000000 -100.000000 1.000000
+  KEY_FRAME 5.000000 0.000000 1.000000
+  KEY_FRAME 7.000000 100.000000 1.000000
+  KEY_FRAME 99.000000 100.000000
+  TOOLTIP Instruments vacuum (suction) indicator
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_X -7.000000
 
-asi_adap_GA_nodig asi_adap
-  POS 410.000000 1245.000000
+gen_text gen_fake_flarm
+  POS 205.000000 995.000000
+  IMAGE flarm
   DATAREF 
-  SIZE 1.600000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  TOOLTIP FLARM
+  OFFSET_X 3
+  OFFSET_Y 0.000000
+
+gen_needle gen_airspeed
+  POS 410.000000 1245.000000
+  IMAGE airspeed_kmh
+  DATAREF sim/cockpit2/gauges/indicators/airspeed_kts_pilot
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 25.000000 0.000000 1.100000
+  KEY_FRAME 181.000000 360.000000 1.000000
+  KEY_FRAME 9999.000000 360.000000
+  TOOLTIP Indicated Airspeed (IAS; in km/h and knots)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -3.400000
 
 horiz_vac_adj horizon_vac_adj
   POS 655.000000 1245.000000
@@ -60929,13 +61134,21 @@ ins_DG_HDG_SYN DG_HDG_SYN
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
-vvi2k_GA VVI_2000
+gen_needle gen_variometer
   POS 900.000000 995.000000
-  DATAREF 
-  SIZE 1.600000
+  IMAGE variometer
+  DATAREF sim/cockpit2/gauges/indicators/vvi_fpm_pilot
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME -99999.000000 -172.000000 0.950000
+  KEY_FRAME -1940.000000 -172.000000 0.950000
+  KEY_FRAME -500.000000 -35.000000 1.000000
+  KEY_FRAME 500.000000 35.000000 1.050000
+  KEY_FRAME 1940.000000 172.000000 1.050000
+  KEY_FRAME 99999.000000 172.000000
+  TOOLTIP Vertical speed (in hundreds feet per minute)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
 
 ins_ADF_conven1_GA ADF_conven1
   POS 1135.000000 995.000000
@@ -60945,214 +61158,28 @@ ins_ADF_conven1_GA ADF_conven1
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
 
-ins_hobbs hobbs
-  POS 200.000000 995.000000
+gen_text gen_stk_cowlflap
+  POS 1270.000000 1165.000000
+  IMAGE stk_cowlflap
   DATAREF 
-  SIZE 2.000000
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
 
-han_thrott_vern han_thro_vernier
-  POS 55.000000 915.000000
-  DATAREF 
-  SIZE 2.400000
+gen_handle gen_cowlflap
+  POS 1270.000000 1070.000000
+  IMAGE cowlflap
+  DATAREF sim/cockpit2/engine/actuators/cowl_flap_ratio[0]
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-han_thrott_vern han_thro_vernier
-  POS 1270.000000 915.000000
-  DATAREF 
-  SIZE 2.400000
-  COPILOT
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_bat_volt engine_batt_VOLT
-  POS 125.000000 420.000000
-  DATAREF 
-  SIZE 1.500000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_battery but_battery
-  POS 250.000000 420.000000
-  DATAREF 
-  SIZE 2.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_generator but_generator
-  POS 300.000000 420.000000
-  DATAREF 
-  SIZE 2.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_starter_GA but_starter
-  POS 405.000000 420.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_oilP engine_oilP
-  POS 570.000000 610.000000
-  DATAREF 
-  SIZE 1.500000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_oilT engine_oilT
-  POS 735.000000 610.000000
-  DATAREF 
-  SIZE 1.500000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_ENG engine_RPM_engine
-  POS 920.000000 585.000000
-  DATAREF 
-  SIZE 2.200000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_MP engine_MP
-  POS 1140.000000 585.000000
-  DATAREF 
-  SIZE 2.200000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_FF engine_FF
-  POS 1140.000000 585.000000
-  DATAREF 
-  SIZE 2.200000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-ins_fuel_round_GA fuel_round
-  POS 570.000000 420.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-ins_fuel_round_GA fuel_round_aux
-  POS 730.000000 420.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_CHT engine_CHT
-  POS 920.000000 420.000000
-  DATAREF 
-  SIZE 1.500000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-eng_rnd_EGT engine_EGT
-  POS 1745.000000 985.000000
-  DATAREF 
-  SIZE 1.500000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-han_prop_vern han_prop_vernier
-  POS 1080.000000 420.000000
-  DATAREF 
-  SIZE 2.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_fuel_pump but_fuelpump
-  POS 1215.000000 420.000000
-  DATAREF 
-  SIZE 2.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_fuel_off_any but_fuel
-  POS 1330.000000 535.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_xfr_fr_l_r but_fuel_xfr
-  POS 1430.000000 535.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-but_brakes but_brakes
-  POS 1090.000000 145.500000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-han_elv_trim_act elv_trim_act
-  POS 1090.000000 -5.000000
-  DATAREF 
-  SIZE 2.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-elv_trim_ind elv_trim_ind
-  POS 1035.000000 -5.000000
-  DATAREF 
-  SIZE 2.500000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-han_mixture_lin han_mixture_linear
-  POS 1145.000000 -20.000000
-  DATAREF 
-  SIZE 3.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-han_cowlflaps han_cowlflaps
-  POS 1270.000000 1115.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
-
-flap_ind_rnd indicate_flap_round
-  POS 1380.000000 420.000000
-  DATAREF 
-  SIZE 2.000000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  BUS_SRC 1
+  KEY_FRAME 0.000000 25.000000 1.000000
+  KEY_FRAME 1.000000 -20.000000
+  TOOLTIP Cowl flap
+  CLICK_RADIUS 20.000000
+  HAS_DETENTS 0
 
 rad_navcom1_ff_GA rad_NAVCOM1_FF
   POS 1470.000000 1280.500000
@@ -61185,5 +61212,337 @@ rad_ADF1_GA rad_ADF1
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
   BUS_SRC 1
+
+gen_needle gen_outside_airT
+  POS 1745.000000 995.000000
+  IMAGE outside_airT
+  DATAREF sim/cockpit2/temperature/outside_air_temp_degc
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME -999.000000 -90.000000 1.000000
+  KEY_FRAME -25.000000 -90.000000 1.000000
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 45.000000 187.000000 1.000000
+  KEY_FRAME 999.000000 187.000000
+  TOOLTIP Outside air temperature (in degrees celsius)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+
+gen_needle gen_hobbs
+  POS 1900.000000 995.000000
+  IMAGE hobbs
+  DATAREF sim/cockpit2/clock_timer/hobbs_time_minutes
+  KF_WRAP_BOTTOM
+  KF_WRAP_TOP
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 60.000000 360.000000
+  TOOLTIP Flight time counter (FTC)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -1.400000
+
+gen_handle gen_throttle
+  POS 1270.000000 850.000000
+  IMAGE throttle
+  DATAREF sim/cockpit2/engine/actuators/throttle_ratio[0]
+  SHOW_LESS 0.000000 sim/
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 -30.000000 1.000000
+  KEY_FRAME 1.000000 30.000000
+  TOOLTIP Throttle
+  CLICK_RADIUS 20.000000
+  HAS_DETENTS 0
+
+gen_text gen_fake_headset
+  POS 30.000000 420.000000
+  IMAGE headset
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
+
+gen_needle gen_battery
+  POS 130.000000 420.000000
+  IMAGE battery
+  DATAREF sim/cockpit2/electrical/battery_voltage_indicated_volts[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1073741825
+  KEY_FRAME -999.000000 -40.000000 1.000000
+  KEY_FRAME 9.000000 -40.000000 1.000000
+  KEY_FRAME 11.000000 -20.000000 1.000000
+  KEY_FRAME 15.000000 20.000000 1.000000
+  KEY_FRAME 17.000000 40.000000 1.000000
+  KEY_FRAME 999.000000 40.000000
+  TOOLTIP Battery voltage
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -20.299999
+
+but_battery but_battery
+  POS 245.000000 410.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+
+but_generator but_generator
+  POS 295.000000 410.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+
+but_starter_GA but_starter
+  POS 405.000000 415.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+
+gen_needle gen_engine_oilP
+  POS 570.000000 610.000000
+  IMAGE engine_oilP
+  DATAREF sim/cockpit2/engine/indicators/oil_pressure_psi[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 -35.000000 1.000000
+  KEY_FRAME 10.000000 35.000000 1.000000
+  KEY_FRAME 999.000000 35.000000
+  TOOLTIP Oil pressure (in bars)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -20.299999
+
+gen_needle gen_engine_oilT
+  POS 730.000000 610.000000
+  IMAGE engine_oilT
+  DATAREF sim/cockpit2/engine/indicators/oil_temperature_deg_C[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME -999.000000 -40.000000 1.000000
+  KEY_FRAME 40.000000 -40.000000 1.000000
+  KEY_FRAME 135.000000 40.000000 1.000000
+  KEY_FRAME 999.000000 40.000000
+  TOOLTIP Oil temperatire (in degrees celsius)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -20.299999
+
+gen_needle gen_fuel_main
+  POS 570.000000 450.000000
+  IMAGE fuel_main
+  DATAREF sim/cockpit2/fuel/fuel_quantity[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 -40.000000 1.000000
+  KEY_FRAME 80.000000 40.000000 1.000000
+  KEY_FRAME 999.000000 40.000000
+  TOOLTIP Main fuel tank quantity
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -26.600000
+
+gen_needle gen_fuel_aux
+  POS 730.000000 450.000000
+  IMAGE fuel_aux
+  DATAREF sim/cockpit2/fuel/fuel_quantity[1]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1073741825
+  KEY_FRAME 0.000000 -40.000000 1.000000
+  KEY_FRAME 36.000000 40.000000 1.000000
+  KEY_FRAME 999.000000 40.000000
+  TOOLTIP Auxiliary fuel tank quantity
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -26.600000
+
+gen_needle gen_engine_RPM
+  POS 920.000000 585.000000
+  IMAGE engine_RPM
+  DATAREF sim/cockpit2/engine/indicators/prop_speed_rpm[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 -131.000000 1.000000
+  KEY_FRAME 300.000000 -131.000000 1.000000
+  KEY_FRAME 4100.000000 180.000000 1.000000
+  KEY_FRAME 9999.000000 180.000000
+  TOOLTIP Engine/propeller speed (in hundreds revolutions per minute)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+
+gen_needle gen_engine_MP
+  POS 1130.000000 585.000000
+  IMAGE engine_MP
+  DATAREF sim/cockpit2/engine/indicators/MPR_in_hg[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 -75.000000 1.000000
+  KEY_FRAME 10.000000 -75.000000 1.000000
+  KEY_FRAME 35.000000 75.000000 1.000000
+  KEY_FRAME 999.000000 75.000000
+  TOOLTIP Manifold pressure (in mercury inches)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+
+gen_needle gen_engine_FF
+  POS 1130.000000 585.000000
+  IMAGE engine_FF
+  DATAREF sim/cockpit2/engine/indicators/fuel_flow_kg_sec[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 75.000000 2.000000
+  KEY_FRAME 0.014000 -75.000000 2.000000
+  KEY_FRAME 9.000000 -75.000000
+  TOOLTIP Fuel flow (in US gallons per hour)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+
+gen_needle gen_engine_CHT
+  POS 920.000000 420.000000
+  IMAGE engine_CHT
+  DATAREF sim/cockpit2/engine/indicators/CHT_deg_C[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME -9999.000000 -44.000000 1.000000
+  KEY_FRAME 200.000000 -44.000000 1.000000
+  KEY_FRAME 600.000000 44.000000 1.000000
+  KEY_FRAME 9999.000000 44.000000
+  TOOLTIP Cylinder head temperature (CHT; in degrees fahrenheit)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -28.400000
+
+gen_needle gen_engine_EGT
+  POS 1525.000000 420.000000
+  IMAGE engine_EGT
+  DATAREF sim/cockpit2/engine/indicators/EGT_deg_C[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME -9999.000000 -44.000000 1.000000
+  KEY_FRAME 400.000000 -44.000000 1.000000
+  KEY_FRAME 800.000000 44.000000 1.000000
+  KEY_FRAME 9999.000000 44.000000
+  TOOLTIP Exhasut gaz temperature (EGT; in degrees fahrenheit)
+  IS_DRAGGABLE 0
+  OFFSET 0.000000
+  NEEDLE_OFFSET_Y -28.400000
+
+gen_handle gen_propeller
+  POS 1080.000000 350.000000
+  IMAGE propeller
+  DATAREF sim/cockpit2/engine/actuators/prop_rotation_speed_rad_sec[0]
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 100.000000 -30.000000 1.000000
+  KEY_FRAME 285.000000 30.000000
+  TOOLTIP Propeller pitch
+  CLICK_RADIUS 20.000000
+  HAS_DETENTS 0
+
+but_fuel_pump but_fuelpump
+  POS 1215.000000 420.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Electric fuel pump
+
+gen_text gen_stk_fuelxfr
+  POS 1375.000000 590.000000
+  IMAGE stk_fuelxfr
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
+
+but_xfr_fr_l_r but_fuel_xfr
+  POS 1375.000000 480.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Auxiliary fuel tank transfer
+
+flap_ind_rnd indicate_flap_round
+  POS 1525.000000 610.000000
+  DATAREF 
+  SIZE 1.500000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Flaps position
+  COMMENT (non-existing in the real plane)
+
+han_elv_trim_act elv_trim_act
+  POS 1100.000000 -35.000000
+  DATAREF 
+  SIZE 2.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Elevator trim control
+  COMMENT (located below trim/mixture controls in the real plane)
+
+gen_pointer gen_trim_elv
+  POS 1035.000000 10.000000
+  IMAGE trim_elv
+  DATAREF sim/cockpit2/controls/elevator_trim
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME -1.000000 128.000000 1.000000
+  KEY_FRAME 1.000000 -128.000000
+  TOOLTIP Elevator trim indicator
+  IS_DRAGGABLE 0
+  IS_VERTICAL 1
+  OFFSET 0.000000
+
+but_brakes but_brakes
+  POS 1100.000000 75.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Parking brake
+
+gen_text gen_stk_mixture
+  POS 1145.500000 -38.000000
+  IMAGE stk_mixture
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+  OFFSET_X 3
+  OFFSET_Y 0.000000
+
+han_mixture_lin han_mixture_linear
+  POS 1155.000000 -50.000000
+  DATAREF 
+  SIZE 3.000000
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Mixture
+
+but_fuel_off_any but_fuel
+  POS 1375.000000 420.000000
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  BUS_SRC 1
+  TOOLTIP Main fuel tank selector
+  COMMENT (located below trim/mixture controls in the real plane)
 
 PANEL_3D_END
