@@ -151,8 +151,8 @@ DR400-200R
   H: Control Geometry > Controls > Full Flaps Drag (Cd) Coefficient
 
 * Landing: Abeam Threshold
-  S: 1000RPM
-  O: Speed decreases ~5kt each 2 seconds
+  S: MP: <15" (RPM: drop)
+  O: Speed decreases ~5kt each 1 second
 
 * Landing: Abeam Threshold (cont'd)
   S: Speed white sector (~90kt)
